@@ -1,22 +1,7 @@
-<ul class="meta">
-  {% if post.categories.size > 0 %}
-  <li>
-    > {% for category in post.categories %} {{ category }}{% endfor %}
-  </li>
-  {% endif %}
-  {% comment %}
-  {% if post.tags.size > 0 %}
-  <li>
-    1 {% for tag in post.tags %}{{ tags }}{% endfor %}
-  </li>
-  {% endif %}
-  {% endcomment %}
-  <li>
-    Meta:&nbsp;&nbsp;
-    {% comment %}
-    {% endcomment %}
-    <a href="{{ post.url }}#disqus_thread">Comments</a>&nbsp;&nbsp;
-    <a href="{{ post.url }}">Permalink</a>
-    {% comment %} <!-- There's currently no per-article syndication feed for Mephisto --> , syndicate {% endcomment %}
-  </li>
-</ul>
+<div class="meta">
+Meta:
+    {% if post.categories.size > 0 %}
+        {% for category in post.categories %}{{ post.categories | category_links }}{% endfor %}
+    {% endif %}
+    <a class="comments" href="{{ post.url }}#disqus_thread">Comentarios</a>
+</div>

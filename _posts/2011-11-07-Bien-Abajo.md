@@ -2,6 +2,7 @@
 layout: post
 title: Bien abajo
 comments: true
+category: blog
 ---
 Ahí esta una suerte de _sticky footer_, no implementado al pie de la letra, pero funciona.
 
