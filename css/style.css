@@ -1,0 +1,119 @@
+html {
+  overflow: -moz-scrollbars-vertical;
+  overflow-y: scroll; }
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: monospace; }
+
+a, a:visited {
+  color: #666;
+  text-decoration: none; }
+  a:hover, a:active, a:visited:hover, a:visited:active {
+    color: #DE4314; }
+
+#main {
+  width: 600px;
+  min-height: 100%;
+  margin-left: auto;
+  margin-right: auto; }
+  #main img {
+    width: 100%; }
+
+ul {
+  margin: 0;
+  padding: 0; }
+  ul li {
+    list-style-type: none;
+    padding-bottom: 0.5em;
+    font-size: 100%;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 2em; }
+
+time {
+  float: left;
+  background: transparent;
+  padding: 0 1em 0 1em; }
+  time span {
+    display: block;
+    text-align: center;
+    color: #6D9EAB;
+    margin: 0;
+    padding: 0 auto; }
+
+.day {
+  font-size: 1.4em;
+  line-height: 0.8em; }
+
+.month {
+  font-size: 1em; }
+
+.year {
+  font-size: 0.8em; }
+
+.post-title {
+  text-align: left;
+  font-size: 100%;
+  padding-top: 0.5em;
+  margin: 0; }
+
+header#page-title {
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em; }
+  header#page-title a, header#page-title a:visited {
+    color: #DE4314; }
+    header#page-title a:hover, header#page-title a:active, header#page-title a:visited:hover, header#page-title a:visited:active {
+      color: #CCC; }
+
+article section {
+  padding-top: 2em;
+  text-align: justify; }
+
+footer {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+  footer p {
+    text-align: left; }
+  footer ul {
+    text-align: left; }
+    footer ul li {
+      display: inline; }
+  footer a, footer a:visited {
+    color: #6D9EAB; }
+    footer a:hover, footer a:active, footer a:visited:hover, footer a:visited:active {
+      color: #CCC; }
+
+pre {
+  -moz-border-radius: 3px;
+  border: 1px solid #DE4314;
+  background: #202020;
+  color: #D0D0D0;
+  padding: auto;
+  padding: 1em; }
+
+.category {
+  font-size: 1.8em;
+  color: #202020;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 1.5em; }
+
+.meta {
+  display: block;
+  text-transform: lowercase;
+  padding-bottom: 0.5em; }
+  .meta .comments {
+    float: right; }

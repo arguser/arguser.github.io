@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+    <title>arguser</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="José Pablo Leandro Martín" />
+    <meta name="description" content="Blog Personal" />
+    <link href="/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+        <div id="main" >
+    <header id="page-title">
+    <h1><a href="/">arguser</a></h1>
+</header>
+
+            
+<article>
+    <header>
+        <time datetime="Fri Dec 02 00:00:00 -0300 2011">
+            <span class="day">02</span>
+            <span class="month">Dec</span>
+            <span class="year">2011</span>
+        </time>
+        <h2 class="post-title"><a href="/aplicaciones/2011/12/02/RSSR.html" data-disqus-identifier="RSS reader para terminal">RSS reader para terminal</a></h2>
+        <!--<a href="https://twitter.com/share" class="twitter-share-button" data-url="/aplicaciones/2011/12/02/RSSR.html" data-count-url="/aplicaciones/2011/12/02/RSSR.html" data-count="horizontal" data-via="arguser">Tweet</a>-->
+    </header>
+<section>
+
+<p>Estuve en busca de una aplicación para leer <strong>RSS Feeds</strong>, esta debería cumplir su función por supuesto, ser <em>liviana</em>, simple y por que no, funcionar desde la terminal.
+Lo que encontré tiene como nombre <a href="http://newsbeuter.org"><strong>newsbeuter</strong></a> y junto con el, la satisfacción. Una vez instalado, simplemente agregamos las url de nuestros feeds preferidos a un archivo que guardaremos en <code>~/.newsbeuter/urls</code> y listo.</p>
+
+<p>El archivo <em>urls</em> se ve de esta manera si hacemos <em>cat</em> en el:</p>
+
+<pre><code>~ &gt;&gt; cat .newsbeuter/urls
+http://arguser.com.ar/atom.xml
+http://rss.slashdot.org/Slashdot/slashdot
+http://www.engadget.com/rss.xml
+http://feeds.techdirt.com/techdirt/feed
+http://feeds.wired.com/wired/index
+http://www.kerneltrap.org/node/feed
+http://planet.fedoraproject.org/atom.xml
+http://planet.archlinux.org/atom.xml
+http://feeds.feedburner.com/thechangelog
+http://feeds.arstechnica.com/arstechnica/everything
+http://dataportability.org/feed/
+https://www.eff.org/rss/updates.xml
+http://www.1up.com/rss?x=1
+http://feeds.feedburner.com/RockPaperShotgun
+http://feeds.boingboing.net/boingboing/iBag
+https://blog.mozilla.com/feed/
+</code></pre>
+
+<p>Una vez adentro de <a href="http://newsbeuter.org">newsbeuter</a> veremos los <em>feeds</em> a los cuales actualizamos apretando la tecla <em>R</em> (o <em>r</em> para el feed seleccionado).
+<img src="content/images/2011-12-02-162508_1280x800_scrot.png" alt="rss" />
+Esto va a descargar los artículos, dándonos la posibilidad de verlos <strong>offline</strong>, apretamos <em>enter</em> en el feed que nos interesa y se revelara la lista de artículos correspondientes al <em>feed</em>.
+<img src="content/images/2011-12-02-162653_1280x800_scrot.png" alt="rss2" />
+Ahora, para ver el contenido de un articulo, lo seleccionamos y apretamos  <em>enter</em>.
+<img src="content/images/2011-12-02-162707_1280x800_scrot.png" alt="rss3" />
+<a href="http://newsbeuter.org"><strong>newsbeuter</strong></a> brinda la posibilidad de marcar las noticias como 'leidas', 'no leidas', agregarlas a una cola, abrirlas en el explorador, guardarlas, agregar links a marcadores y mucho más.</p>
+
+
+
+
+</section>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'arguser'; // required: replace example with your forum shortname
+    var disqus_developer = 0;
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+</article>
+
+
+        </div>
+<footer>
+    <p>Blog Personal de <a xmlns:cc="http://creativecommons.org/ns#" href="http://arguser.com.ar" property="cc:attributionName" rel="cc:attributionURL">José Pablo Leandro Martín</a> <br /> Licenciado bajo <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>.
+    <ul>
+        <li>Hosteado en <a href="http://pages.github.com">Github Pages</a></li>
+        <li>Construido con <a href="http://jekyllrb.com">Jekyll</a></li>
+    </ul>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+<!-- scripts concatenated and minified via ant build script-->
+<script src="js/plugins.js"></script>
+<script src="js/script.js"></script>
+<!--<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>-->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'example'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script>
+    <script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script>
+<![endif]-->
+</body>
+</html>
