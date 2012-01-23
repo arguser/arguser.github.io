@@ -1,10 +1,13 @@
+* {
+  margin: 0;
+  padding: 0; }
+
 html {
   overflow: -moz-scrollbars-vertical;
-  overflow-y: scroll; }
+  overflow-y: scroll;
+  height: 100%; }
 
 body {
-  margin: 0;
-  padding: 0;
   height: 100%;
   font-family: monospace; }
 
@@ -12,13 +15,15 @@ a, a:visited {
   color: #666;
   text-decoration: none; }
   a:hover, a:active, a:visited:hover, a:visited:active {
+    -moz-transition: 0.3s;
     color: #DE4314; }
 
 #main {
   width: 600px;
   min-height: 100%;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  padding-bottom: 100px; }
   #main img {
     width: 100%; }
 
@@ -30,8 +35,6 @@ ul {
     padding-bottom: 0.5em;
     font-size: 100%;
     vertical-align: baseline;
-    margin: 0;
-    padding: 0;
     padding-bottom: 2em; }
 
 time {
@@ -65,26 +68,50 @@ header#page-title {
   display: block;
   text-align: center;
   text-transform: uppercase;
-  margin: 0;
-  padding: 0;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em; }
+  padding-top: 1em;
+  padding-bottom: 5em; }
   header#page-title a, header#page-title a:visited {
     color: #DE4314; }
     header#page-title a:hover, header#page-title a:active, header#page-title a:visited:hover, header#page-title a:visited:active {
       color: #CCC; }
 
 article section {
-  padding-top: 2em;
-  text-align: justify; }
+  padding-top: 4em; }
+
+pre {
+  -moz-border-radius: 3px;
+  border: 1px solid #DE4314;
+  background: #202020;
+  color: #D0D0D0;
+  padding: 1em; }
+
+.category {
+  font-size: 1.8em;
+  color: #202020;
+  padding-bottom: 1.5em; }
+
+.meta {
+  display: block;
+  text-transform: lowercase;
+  padding-bottom: 0.5em; }
+  .meta .comments {
+    float: right; }
+
+a.prev, a.next {
+  display: inline;
+  color: #DE4314;
+  float: right;
+  margin-top: -0.5em;
+  font-size: 5em;
+  line-height: 100%; }
+  a.prev:hover, a.prev:active, a.next:hover, a.next:active {
+    color: #CCC; }
 
 footer {
   display: block;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  margin: 0;
-  padding: 0; }
+  position: relative;
+  clear: both;
+  width: 100%; }
   footer p {
     text-align: left; }
   footer ul {
@@ -95,25 +122,3 @@ footer {
     color: #6D9EAB; }
     footer a:hover, footer a:active, footer a:visited:hover, footer a:visited:active {
       color: #CCC; }
-
-pre {
-  -moz-border-radius: 3px;
-  border: 1px solid #DE4314;
-  background: #202020;
-  color: #D0D0D0;
-  padding: auto;
-  padding: 1em; }
-
-.category {
-  font-size: 1.8em;
-  color: #202020;
-  margin: 0;
-  padding: 0;
-  padding-bottom: 1.5em; }
-
-.meta {
-  display: block;
-  text-transform: lowercase;
-  padding-bottom: 0.5em; }
-  .meta .comments {
-    float: right; }
