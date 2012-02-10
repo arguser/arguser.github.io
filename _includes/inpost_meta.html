@@ -1,0 +1,6 @@
+<div class="meta">
+Meta:
+    {% if post.categories.size > 0 %}
+        {% for category in post.categories %}{{ post.categories | category_links }}{% endfor %}
+    {% endif %}
+</div>

@@ -1,0 +1,8 @@
+---
+layout: default
+---
+<ul>
+{% for categories in site.categories %}
+<li> {{ post.categories | category_links }} </li>
+{% endfor %}
+</ul>
