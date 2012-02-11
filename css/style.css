@@ -76,12 +76,10 @@ header#page-title {
       color: #CCC; }
 
 nav {
-  min-width: 950px;
   z-index: 9 !important; }
   nav ul {
     height: 35px;
     white-space: nowrap;
-    width: 950px;
     margin: 0;
     padding: 0;
     padding-bottom: 5em; }
@@ -105,6 +103,10 @@ nav {
           background: #6D9EAB;
           color: #FFFFFF !important;
           -moz-transition: 0.6s; }
+        nav ul li a.subscribe {
+          color: #DE4314; }
+          nav ul li a.subscribe:hover, nav ul li a.subscribe:active {
+            background: #DE4314; }
       nav ul li a.active {
         color: #6D9EAB; }
       nav ul li a.inactive {
