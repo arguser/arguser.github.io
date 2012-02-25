@@ -3,13 +3,59 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-02-11T00:52:58-03:00</updated>
+  <updated>2012-02-25T17:44:28-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
     <email>arguser@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://arguser.com.ar/2012/02/23/Puertas</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/02/23/Puertas.html"/>
+    <title>Puertas</title>
+    <updated>2012-02-23T00:00:00-03:00</updated>
+    <author>
+      <name>José Pablo Leandro Martín</name>
+      <uri>http://arguser.com.ar/</uri>
+    </author>
+    <content type="html">&lt;p&gt;layout: post
+title: Antes de atravesar las puertas
+category: mística
+comments: true&lt;/p&gt;
+
+&lt;p&gt;Quisiera decir sin miedo lo que me parece que espera detrás. Comenzando por el estado normal y regulado de la mente de un ser humano:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;El Cerrojo (Magico):
+Nuestro sistema siempre, casi siempre, vuelve a su estado &quot;normal&quot;: Se auto-regula. El motivo principal y logico de este mecanismo es la supervivencia,
+se lo pueden explicar imaginando que en el momento en que bajan una escalera les sorprende una brisa, suave y calida
+acariciales el cuerpo. Sin numero de estimulos que no podrian evadir y seguramente causarian un placer que no se
+podria explicar, solo experimentar, se interprondian en el acto de ubicar correctamente el pie en el siguiente
+escalon. Por el contrario, gran parte de los estimulos son bloqueados para que la atencion se centre en NO dar un paso en falso.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La Llave (Magica):
+No necesariamente hay una unica llave. De diferentes tipos, procedencia y metodos de fabricación; magicamente hacen del otro lado de la puerta un destino completamente
+distinto: Paisajes caracteristicos, climas, texturas y sensaciones propias del destino que la llave promete.
+En la actualidad, de estas llaves hay muchas prohibidas, la magia nunca fue bienvenida desde el comienzo de la
+&quot;sociedad&quot; y de las existentes hay algunas que cierran la puerta detras tuyo, no dejandote salir y, por este u otro
+motivo se las prohibe. Aunque en realidad todos deberian, como en alguna epoca se supo, saber que la magia no es un juego y deben realizarse las
+experiencias con suma responsabilidad (y en secreto).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La Puerta (Magica):
+Sin duda, si la magia se puede realizar, esta existe y se conjura en el cerebro. Todo lo que percibimos y en
+concecuencia es y somos, para lo que nos rodea y nosotros mismos, se conjuga bajo las reglas del cerebro. Determina
+de forma alguna que, quien o como algo pasa por &quot;La Puerta&quot; y que o cual destino tiene la misma.
+Tienen hambre, la nececidad pasa rapidamente y busca ser satisfecha, no hay tiempo para escrutar en detalle la
+belleza del bolo alimenticio. Por ejemplo.
+No es el caso, si le facilitamos &quot;La Llave&quot; para que abra &quot;El Cerrojo&quot; y venga a encontrarnos al otro lado de &quot;La
+Puerta&quot; el mas minimo sentir que nos despierte la infinidad que nos rodea.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;De magias y puertas me resta decir que solo espera para quien es consiente, conocimiento: Nuevas formas de ver,
+interpretar y creer. Descubrimientos y Re-descubrimientos. Quizás muerte y resurrección, nacimiento.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://arguser.com.ar/mística/2012/02/10/El-Autodidacta-Extinto</id>
@@ -118,7 +164,7 @@ Ademas del beneficio que conlleva ser &lt;strong&gt;Software Libre&lt;/strong&gt
 
 &lt;p&gt;Consultando por aplicaciones, siempre intentando conseguir algo que se ajuste mejor a mis necesidades, encontré &lt;a href=&quot;http://tyrs.nicosphere.net/&quot;&gt;tyrs&lt;/a&gt;, un cliente de &lt;a href=&quot;http://twitter.com&quot;&gt;twitter&lt;/a&gt; e &lt;a href=&quot;http://identi.ca&quot;&gt;identi.ca&lt;/a&gt; para terimal y con varias prestaciones pero aun en desarrollo y con errores.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;content/images/2011-12-06-224512_836x1046_scrot.png&quot;&gt;&lt;img src=&quot;content/images/2011-12-06-224512_836x1046_scrot.png&quot; alt=&quot;Tyrs&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://arguser.com.ar/content/images/2011-12-06-224512_836x1046_scrot.png&quot; rel=&quot;lightbox&quot; title=&quot;Tyrs&quot;&gt;&lt;img src=&quot;http://arguser.com.ar/content/images/2011-12-06-224512_836x1046_scrot.png&quot; class=&quot;thumbnail&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   
