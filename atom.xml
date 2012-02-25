@@ -3,7 +3,7 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-02-25T17:44:28-03:00</updated>
+  <updated>2012-02-25T17:48:29-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
@@ -12,20 +12,15 @@
 
   
   <entry>
-    <id>http://arguser.com.ar/2012/02/23/Puertas</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/02/23/Puertas.html"/>
-    <title>Puertas</title>
+    <id>http://arguser.com.ar/mística/2012/02/23/Puertas</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/mística/2012/02/23/Puertas.html"/>
+    <title>Antes de atravesar las puertas</title>
     <updated>2012-02-23T00:00:00-03:00</updated>
     <author>
       <name>José Pablo Leandro Martín</name>
       <uri>http://arguser.com.ar/</uri>
     </author>
-    <content type="html">&lt;p&gt;layout: post
-title: Antes de atravesar las puertas
-category: mística
-comments: true&lt;/p&gt;
-
-&lt;p&gt;Quisiera decir sin miedo lo que me parece que espera detrás. Comenzando por el estado normal y regulado de la mente de un ser humano:&lt;/p&gt;
+    <content type="html">&lt;p&gt;Quisiera decir sin miedo lo que me parece que espera detrás. Comenzando por el estado normal y regulado de la mente de un ser humano:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;El Cerrojo (Magico):
