@@ -146,14 +146,21 @@ a.prev, a.next {
     color: #CCC; }
 
 footer {
-  display: block;
-  position: relative;
-  clear: both;
-  width: 100%; }
+  display: inline;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #202020;
+  color: #CCC;
+  border-top: 1px solid #ccc; }
   footer p {
-    text-align: left; }
+    text-align: left;
+    display: inline; }
   footer ul {
-    text-align: left; }
+    display: inline;
+    float: right;
+    text-align: right; }
     footer ul li {
       display: inline; }
   footer a, footer a:visited {
