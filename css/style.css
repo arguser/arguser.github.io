@@ -115,6 +115,8 @@ article section {
   article section p {
     padding-top: 0.8em;
     padding-bottom: 0.8em; }
+    article section p a, article section p a:visited {
+      color: #6D9EAB; }
 
 pre {
   -moz-border-radius: 3px;
@@ -151,19 +153,33 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: #202020;
   color: #CCC;
-  border-top: 1px solid #ccc; }
+  line-height: 24px;
+  background-image: url(/favicon.ico);
+  background-size: 16px 16px;
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-color: #202020; }
   footer p {
     text-align: left;
-    display: inline; }
+    display: inline;
+    padding-left: 21px; }
+    footer p a, footer p a:visited {
+      color: #DE4314; }
+      footer p a:hover, footer p a:active, footer p a:visited:hover, footer p a:visited:active {
+        color: #ccc; }
   footer ul {
     display: inline;
     float: right;
-    text-align: right; }
+    text-align: right;
+    padding-right: 21px;
+    background-image: url(/faviconm.ico);
+    background-size: 16px 16px;
+    background-position: right top;
+    background-repeat: no-repeat; }
     footer ul li {
       display: inline; }
-  footer a, footer a:visited {
-    color: #6D9EAB; }
-    footer a:hover, footer a:active, footer a:visited:hover, footer a:visited:active {
-      color: #CCC; }
+      footer ul li a, footer ul li a:visited {
+        color: #6D9EAB; }
+        footer ul li a:hover, footer ul li a:active, footer ul li a:visited:hover, footer ul li a:visited:active {
+          color: #ccc; }

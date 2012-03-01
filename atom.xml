@@ -3,7 +3,7 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-02-29T00:53:06-03:00</updated>
+  <updated>2012-03-01T05:50:54-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
@@ -12,8 +12,43 @@
 
   
   <entry>
-    <id>http://arguser.com.ar/mística/2012/02/23/Puertas</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/mística/2012/02/23/Puertas.html"/>
+    <id>http://arguser.com.ar/privacidad/2012/03/01/Buscador</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/privacidad/2012/03/01/Buscador.html"/>
+    <title>La importancia en el motor de búsqueda</title>
+    <updated>2012-03-01T00:00:00-03:00</updated>
+    <author>
+      <name>José Pablo Leandro Martín</name>
+      <uri>http://arguser.com.ar/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Se debería &lt;em&gt;tener en cuenta&lt;/em&gt; a la hora de optar por un motor de búsqueda no solo la velocidad en que devuelve resultados (diferencia ahora casi imperceptible),
+ni la precisión de los mismos. Estas, en comparación a las siguientes características, no son importantes.&lt;/p&gt;
+
+&lt;p&gt;A un buscador se le consulta a diario, &lt;strong&gt;estas consultas día a día generan un perfil que describe tus intereses, preocupaciones, inclinaciones políticas,
+sexuales y lo que te puedas imaginar&lt;/strong&gt;. Proveedores de este tipo de servicio &lt;strong&gt;recaudan toda tu información&lt;/strong&gt; bajo la excusa de que es para &lt;em&gt;cosa que dice google
+aca&lt;/em&gt;. Pero también para hacerte llegar publicidad pertinente, lo que te convierte en un producto ya que la publicidad de terceros te llega en base a tu perfil.
+Esto, por ejemplo, podría resultar en que esporádicamente se presenten publicidades que puedan poner en juego asuntos privados ante otras personas. Demás
+esta decir que al usar un servicio de búsqueda que &lt;em&gt;no respete nuestra privacidad&lt;/em&gt; está esta ya comprometida y, &lt;strong&gt;puede y va ser utilizada a fines de lucro&lt;/strong&gt;.
+A tener en cuenta se debería: &lt;strong&gt;privacidad&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Al generar consultas buscando por una respuesta, pienso que todos quieren cual les sea de utilidad y &lt;em&gt;por sobre todo&lt;/em&gt; la fiel y sincera a la consulta realizada.
+Motores de búsqueda comerciales &lt;em&gt;permiten&lt;/em&gt; que los &lt;strong&gt;resultados se vean modificados por el dinero&lt;/strong&gt;, en forma de &lt;em&gt;promover&lt;/em&gt; o &lt;em&gt;publicitar&lt;/em&gt;, sitios aparecen por sobre otros.
+Otro caso es la &lt;strong&gt;censura&lt;/strong&gt;, la desconocemos si la hay pero puede haberla. Los resultados que recibimos vienen de bases de datos que crecen al ritmo de las
+agujas del reloj y estas son también controladas: como un sitio entra en la base de datos para luego presentárselos como resultado, puede también ser eliminado o
+excluido a una &lt;em&gt;lista negra&lt;/em&gt; y permanecer lejos de nuestro alcance.
+En la actualidad podemos ver como &lt;strong&gt;la libertad en Internet es continuamente amenazada&lt;/strong&gt;. Demás esta decir, de nuevo, que aunque rechazadas las propuestas,
+siempre y anteriormente a los tiempos de &lt;strong&gt;SOPA&lt;/strong&gt;, &lt;strong&gt;ACTA&lt;/strong&gt; y similares; hubo algún tipo de represión, está, no siempre se percibe.
+Ante la duda, a tener en cuenta se debería: &lt;strong&gt;neutralidad&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Recapitulando, &lt;strong&gt;privacidad&lt;/strong&gt; y &lt;strong&gt;neutralidad&lt;/strong&gt; como grandes rasgos a tener de un buscador, no es mucho pedir y muy importante. Resta con &lt;em&gt;vencer la
+comodidad&lt;/em&gt;, dejar de lado lo que venga por defecto en nuestro navegador y abrir los ojos en busca de alternativas que cubran estos requisitos. Por suerte,
+las alternativas están y, de estas profundizare más adelante. Por lo pronto les dejo mis dos predilectas: En cuanto a &lt;strong&gt;privacidad&lt;/strong&gt; confió  en que
+&lt;a href=&quot;https://duckduckgo.com&quot;&gt;Duck Duck Go&lt;/a&gt; probará ser ademas útil y, en cuanto a &lt;strong&gt;neutralidad&lt;/strong&gt; me asegura la existencia de &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://arguser.com.ar/opinión/2012/02/23/Puertas</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/opinión/2012/02/23/Puertas.html"/>
     <title>Antes de atravesar las puertas</title>
     <updated>2012-02-23T00:00:00-03:00</updated>
     <author>
@@ -23,20 +58,20 @@
     <content type="html">&lt;p&gt;Antes de leer: &lt;em&gt;Las puertas de la percepcion&lt;/em&gt; por &lt;strong&gt;Aldous Huxley&lt;/strong&gt;. Quisiera decir sin miedo lo que me parece que espera detrás. Comenzando por el estado normal y regulado de la mente de un ser humano:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;El Cerrojo (Magico):
+&lt;li&gt;&lt;p&gt;El Cerrojo:
 Nuestro sistema siempre, casi siempre, vuelve a su estado &quot;normal&quot;: Se auto-regula. El motivo principal y logico de este mecanismo es la supervivencia,
 se lo pueden explicar imaginando que en el momento en que bajan una escalera les sorprende una brisa, suave y calida
 acariciales el cuerpo. Sin numero de estimulos que no podrian evadir y seguramente causarian un placer que no se
 podria explicar, solo experimentar, se interprondian en el acto de ubicar correctamente el pie en el siguiente
 escalon. Por el contrario, gran parte de los estimulos son bloqueados para que la atencion se centre en NO dar un paso en falso.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;La Llave (Magica):
+&lt;li&gt;&lt;p&gt;La Llave:
 No necesariamente hay una unica llave. De diferentes tipos, procedencia y metodos de fabricación; magicamente hacen del otro lado de la puerta un destino completamente
 distinto: Paisajes caracteristicos, climas, texturas y sensaciones propias del destino que la llave promete.
 En la actualidad, de estas llaves hay muchas prohibidas, la magia nunca fue bienvenida desde el comienzo de la
 &quot;sociedad&quot; y de las existentes hay algunas que cierran la puerta detras tuyo, no dejandote salir y, por este u otro
 motivo se las prohibe. Aunque en realidad todos deberian, como en alguna epoca se supo, saber que la magia no es un juego y deben realizarse las
 experiencias con suma responsabilidad (y en secreto).&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;La Puerta (Magica):
+&lt;li&gt;&lt;p&gt;La Puerta:
 Sin duda, si la magia se puede realizar, esta existe y se conjura en el cerebro. Todo lo que percibimos y en
 concecuencia es y somos, para lo que nos rodea y nosotros mismos, se conjuga bajo las reglas del cerebro. Determina
 de forma alguna que, quien o como algo pasa por &quot;La Puerta&quot; y que o cual destino tiene la misma.
@@ -53,8 +88,8 @@ interpretar y creer. Descubrimientos y Re-descubrimientos. Quizás muerte y resu
   </entry>
   
   <entry>
-    <id>http://arguser.com.ar/mística/2012/02/10/El-Autodidacta-Extinto</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/mística/2012/02/10/El-Autodidacta-Extinto.html"/>
+    <id>http://arguser.com.ar/escrito/2012/02/10/El-Autodidacta-Extinto</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/escrito/2012/02/10/El-Autodidacta-Extinto.html"/>
     <title>El Autodidacta Extinto</title>
     <updated>2012-02-10T00:00:00-03:00</updated>
     <author>
@@ -93,222 +128,6 @@ Y ellos la siguen.&lt;/p&gt;
 
 &lt;p&gt;Donde definimos el sistema de archivos, en el caso del Kindle: vfat, y las opciones que indican el usuario, grupo, modo (lectura-escritura) y la codificación de caracteres.
 Esta ultima es muy importante si utilizamos Calibre para administrar nuestros libros electrónicos, ya que en orden de comprender y mostrar los libros que se encuentran en nuestro dispositivo Calibre utiliza UTF-8 para decodificar los caracteres.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://arguser.com.ar/blog/2011/12/16/Branch</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/blog/2011/12/16/Branch.html"/>
-    <title>Branch</title>
-    <updated>2011-12-16T00:00:00-03:00</updated>
-    <author>
-      <name>José Pablo Leandro Martín</name>
-      <uri>http://arguser.com.ar/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Para poder agregarle más funciones al blog tengo que usar &lt;strong&gt;plugins&lt;/strong&gt; en &lt;em&gt;Jekyll&lt;/em&gt;. Estos plugins no funcionan cuando Github se encarga de compilar el sitio por lo que tendría que hacer una &lt;a href=&quot;https://github.com/arguser/arguser.github.com/branches&quot;&gt;&lt;strong&gt;rama&lt;/strong&gt;&lt;/a&gt; en donde poner el código de fuente (&lt;em&gt;source&lt;/em&gt;) y en el &lt;em&gt;master&lt;/em&gt; poner únicamente el sitio ya compilado desde &lt;a href=&quot;http://www.thinkwiki.org/wiki/Category:T410i&quot;&gt;&lt;strong&gt;&lt;em&gt;Ivana&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Además esto me va ayudar a dedicarme mejor al código que es un &lt;strong&gt;asco!&lt;/strong&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://arguser.com.ar/aplicaciones/2011/12/11/YaCy</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/aplicaciones/2011/12/11/YaCy.html"/>
-    <title>Motor de búsqueda Libre y Distribuido</title>
-    <updated>2011-12-11T00:00:00-03:00</updated>
-    <author>
-      <name>José Pablo Leandro Martín</name>
-      <uri>http://arguser.com.ar/</uri>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://yacy.net&quot;&gt;&lt;strong&gt;YaCy&lt;/strong&gt;&lt;/a&gt; es un &lt;em&gt;search engine&lt;/em&gt; licenciado bajo &lt;strong&gt;GPLv2&lt;/strong&gt; que funciona de forma distribuida por su infraestructura P2P. Esto significa que el buscador funciona a base de sus usuarios, estos pueden estar clasificados entre &lt;em&gt;pasivos&lt;/em&gt; y &lt;em&gt;activos&lt;/em&gt;. Un usuario &lt;em&gt;pasivo&lt;/em&gt; es aquel que puede generar consultas al buscador, mientras que el &lt;em&gt;activo&lt;/em&gt; ademas de buscar, provee de resultados a la red descentralizada. El motor de búsqueda viene equipado con herramientas para hacer del usuario un contribuyente y de esta manera aumentar (a medida que aumentan los usuarios) el poder del buscador.
-Ademas del beneficio que conlleva ser &lt;strong&gt;Software Libre&lt;/strong&gt;, al estar su base de datos conforme por una red distribuida de usuarios se hace prácticamente imposible la censura, ademas de que los resultados no van a estar promovidos por el dinero, como sucede con la mayoría de los buscadores comerciales (Google, Bing, Yahoo).&lt;/p&gt;
-
-&lt;p&gt;Asi se ve la red:
-&lt;a href=&quot;content/images/NetworkPicture.png&quot;&gt;&lt;img src=&quot;content/images/NetworkPicture.png&quot; alt=&quot;YaCy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hacer funcionar &lt;a href=&quot;http://yacy.net&quot;&gt;&lt;strong&gt;YaCy&lt;/strong&gt;&lt;/a&gt; no es tarea difícil:
-(Ejemplo bajo ArchLinux)&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;* Instalamos el motor de búsqueda.
-    `yaourt -S yacy`
-* Ejecutamos el demonio.
-    `sudo /etc/rc.d/yacy start`
-* Configuramos en http://localhost:8090/
-* Listo!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Para dar uso a &lt;strong&gt;YaCy&lt;/strong&gt; simplemente escribimos la dirección http://localhost:8090/ en nuestro buscador y realizamos la consulta que sea necesaria.
-&lt;a href=&quot;content/images/2011-12-02-210415_1276x777_scrot.png&quot;&gt;&lt;img src=&quot;content/images/2011-12-02-210415_1276x777_scrot.png&quot; alt=&quot;YaCy&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;content/images/2011-12-02-205023_1276x777_scrot.png&quot;&gt;&lt;img src=&quot;content/images/2011-12-02-205023_1276x777_scrot.png&quot; alt=&quot;YaCy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;En el caso de querer contribuir como usuario &lt;em&gt;activo&lt;/em&gt; debemos tener los puertos abiertos y permitidos en el firewall y/o modem para que las consultas de otros usuarios lleguen a tu base de datos. Para que nuestra base de datos no este vacía debemos iniciar el &lt;em&gt;crawler&lt;/em&gt; al cual le indicamos una url de interés y damos el OK.
-&lt;a href=&quot;content/images/2011-12-13-150938_1276x777_scrot.png&quot;&gt;&lt;img src=&quot;content/images/2011-12-13-150938_1276x777_scrot.png&quot; alt=&quot;YaCy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://arguser.com.ar/aplicaciones/2011/12/07/Tyrs</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/aplicaciones/2011/12/07/Tyrs.html"/>
-    <title>Terminal Timeline</title>
-    <updated>2011-12-07T00:00:00-03:00</updated>
-    <author>
-      <name>José Pablo Leandro Martín</name>
-      <uri>http://arguser.com.ar/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Ser usuario de &lt;a href=&quot;https://archlinux.org&quot;&gt;ArchLinux&lt;/a&gt; tiene como beneficio disponer con &lt;em&gt;shitloads&lt;/em&gt; (grandes cantidades) de paquetes, principalmente gracias a &lt;a href=&quot;https://aur.archlinux.org&quot;&gt;&lt;strong&gt;AUR&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Consultando por aplicaciones, siempre intentando conseguir algo que se ajuste mejor a mis necesidades, encontré &lt;a href=&quot;http://tyrs.nicosphere.net/&quot;&gt;tyrs&lt;/a&gt;, un cliente de &lt;a href=&quot;http://twitter.com&quot;&gt;twitter&lt;/a&gt; e &lt;a href=&quot;http://identi.ca&quot;&gt;identi.ca&lt;/a&gt; para terimal y con varias prestaciones pero aun en desarrollo y con errores.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://arguser.com.ar/content/images/2011-12-06-224512_836x1046_scrot.png&quot; rel=&quot;lightbox&quot; title=&quot;Tyrs&quot;&gt;&lt;img src=&quot;http://arguser.com.ar/content/images/2011-12-06-224512_836x1046_scrot.png&quot; class=&quot;thumbnail&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://arguser.com.ar/aplicaciones/2011/12/02/RSSR</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/aplicaciones/2011/12/02/RSSR.html"/>
-    <title>RSS reader para terminal</title>
-    <updated>2011-12-02T00:00:00-03:00</updated>
-    <author>
-      <name>José Pablo Leandro Martín</name>
-      <uri>http://arguser.com.ar/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Estuve en busca de una aplicación para leer &lt;strong&gt;RSS Feeds&lt;/strong&gt;, esta debería cumplir su función por supuesto, ser &lt;em&gt;liviana&lt;/em&gt;, simple y por que no, funcionar desde la terminal.
-Lo que encontré tiene como nombre &lt;a href=&quot;http://newsbeuter.org&quot;&gt;&lt;strong&gt;newsbeuter&lt;/strong&gt;&lt;/a&gt; y junto con el, la satisfacción. Una vez instalado, simplemente agregamos las url de nuestros feeds preferidos a un archivo que guardaremos en &lt;code&gt;~/.newsbeuter/urls&lt;/code&gt; y listo.&lt;/p&gt;
-
-&lt;p&gt;El archivo &lt;em&gt;urls&lt;/em&gt; se ve de esta manera si hacemos &lt;em&gt;cat&lt;/em&gt; en el:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;~ &amp;gt;&amp;gt; cat .newsbeuter/urls
-http://arguser.com.ar/atom.xml
-http://rss.slashdot.org/Slashdot/slashdot
-http://www.engadget.com/rss.xml
-http://feeds.techdirt.com/techdirt/feed
-http://feeds.wired.com/wired/index
-http://www.kerneltrap.org/node/feed
-http://planet.fedoraproject.org/atom.xml
-http://planet.archlinux.org/atom.xml
-http://feeds.feedburner.com/thechangelog
-http://feeds.arstechnica.com/arstechnica/everything
-http://dataportability.org/feed/
-https://www.eff.org/rss/updates.xml
-http://www.1up.com/rss?x=1
-http://feeds.feedburner.com/RockPaperShotgun
-http://feeds.boingboing.net/boingboing/iBag
-https://blog.mozilla.com/feed/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Una vez adentro de &lt;a href=&quot;http://newsbeuter.org&quot;&gt;newsbeuter&lt;/a&gt; veremos los &lt;em&gt;feeds&lt;/em&gt; a los cuales actualizamos apretando la tecla &lt;em&gt;R&lt;/em&gt; (o &lt;em&gt;r&lt;/em&gt; para el feed seleccionado).
-&lt;img src=&quot;content/images/2011-12-02-162508_1280x800_scrot.png&quot; alt=&quot;rss&quot; /&gt;
-Esto va a descargar los artículos, dándonos la posibilidad de verlos &lt;strong&gt;offline&lt;/strong&gt;, apretamos &lt;em&gt;enter&lt;/em&gt; en el feed que nos interesa y se revelara la lista de artículos correspondientes al &lt;em&gt;feed&lt;/em&gt;.
-&lt;img src=&quot;content/images/2011-12-02-162653_1280x800_scrot.png&quot; alt=&quot;rss2&quot; /&gt;
-Ahora, para ver el contenido de un articulo, lo seleccionamos y apretamos  &lt;em&gt;enter&lt;/em&gt;.
-&lt;img src=&quot;content/images/2011-12-02-162707_1280x800_scrot.png&quot; alt=&quot;rss3&quot; /&gt;
-&lt;a href=&quot;http://newsbeuter.org&quot;&gt;&lt;strong&gt;newsbeuter&lt;/strong&gt;&lt;/a&gt; brinda la posibilidad de marcar las noticias como 'leidas', 'no leidas', agregarlas a una cola, abrirlas en el explorador, guardarlas, agregar links a marcadores y mucho más.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://arguser.com.ar/blog/2011/11/17/Como</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/blog/2011/11/17/Como.html"/>
-    <title>Repositorio</title>
-    <updated>2011-11-17T00:00:00-03:00</updated>
-    <author>
-      <name>José Pablo Leandro Martín</name>
-      <uri>http://arguser.com.ar/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Falta mucho todavía, por aprender e implementar para el sitio. De todas formas, y por estar utilizando &lt;a href=&quot;http://github.com&quot;&gt;Github&lt;/a&gt; como host pueden ver el &lt;a href=&quot;http://github.com/arguser/arguser.github.com&quot;&gt;código de fuente&lt;/a&gt; y hacer lo que quieran, cualquier consejo respecto al código es bienvenido!&lt;/p&gt;
-
-&lt;p&gt;La estructura de lo que ven, es la siguiente:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;    .
-    ├── archive.html
-    ├── atom.xml
-    ├── CNAME
-    ├── _config.yml
-    ├── css
-    │   └── style.css
-    ├── _includes
-    │   ├── aside.html
-    │   ├── footer.html
-    │   ├── header.html
-    │   ├── navigation.html
-    │   ├── post_comment.html
-    │   ├── post_content.html
-    │   ├── post.html
-    │   ├── post_meta.html
-    │   ├── postnav.html
-    │   └── twitter.html
-    ├── index.html
-    ├── _layouts
-    │   ├── default.html
-    │   └── post.html
-    ├── _posts
-    │   ├── 2011-11-02-Start.md
-    │   ├── 2011-11-07-Bien-Abajo.md
-    │   ├── 2011-11-07-Disqus.md
-    │   └── 2011-11-09-Navegacion.md
-    └── _site
-        ├── 2011
-        │   └── 11
-        │       ├── 02
-        │       │   └── Start.html
-        │       ├── 07
-        │       │   ├── Bien-Abajo.html
-        │       │   └── Disqus.html
-        │       └── 09
-        │           └── Navegacion.html
-        ├── archive.html
-        ├── atom.xml
-        ├── CNAME
-        ├── css
-        │   └── style.css
-        └── index.html
-&lt;/code&gt;&lt;/pre&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://arguser.com.ar/blog/2011/11/09/Navegacion</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/blog/2011/11/09/Navegacion.html"/>
-    <title>Fechitas</title>
-    <updated>2011-11-09T00:00:00-03:00</updated>
-    <author>
-      <name>José Pablo Leandro Martín</name>
-      <uri>http://arguser.com.ar/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Como pueden ver a la derecha del sitio apareció una barra lateral, todavía no sé que es lo que va a pasar ahí, pero por el momento verán enlaces de mi perfil en otros servicios y (muy importante :P) el &lt;a href=&quot;http://arguser.com.ar/atom.xml&quot;&gt;Atom Feed&lt;/a&gt; por si quieren subscribirse.&lt;/p&gt;
-
-&lt;p&gt;Otro detalle, si se encuentran dentro de un post podrán navegar a anteriores o recientes publicaciones gracias a las &lt;em&gt;flechitas&lt;/em&gt; que se ubican a los lados de la pantalla.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://arguser.com.ar/blog/2011/11/07/Disqus</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/blog/2011/11/07/Disqus.html"/>
-    <title>Disqus</title>
-    <updated>2011-11-07T00:00:00-03:00</updated>
-    <author>
-      <name>José Pablo Leandro Martín</name>
-      <uri>http://arguser.com.ar/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Para permitir comentarios en un blog construido con &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; hay que recurrir a Sistemas de Comentarios, de los cuales hay dos predominantes: &lt;a href=&quot;http://disqus.com&quot;&gt;&lt;em&gt;Disqus&lt;/em&gt;&lt;/a&gt; e &lt;a href=&quot;http://intensedebate.com&quot;&gt;&lt;em&gt;Intense Debate&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;De ellos elegí el que este post tiene por titulo, haciendo un poco de investigación y convenciéndome por ver que es el más adoptado por bloggers en Internet.
-Me falta escribir algo de &lt;strong&gt;css&lt;/strong&gt; para estilizar el modulo de comentarios y simplemente escribir &quot;comments: true&quot; en la cabecera del post para habilitarlos.&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <id>http://arguser.com.ar/blog/2011/11/07/Bien-Abajo</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/blog/2011/11/07/Bien-Abajo.html"/>
-    <title>Bien abajo</title>
-    <updated>2011-11-07T00:00:00-03:00</updated>
-    <author>
-      <name>José Pablo Leandro Martín</name>
-      <uri>http://arguser.com.ar/</uri>
-    </author>
-    <content type="html">&lt;p&gt;Ahí esta una suerte de &lt;em&gt;sticky footer&lt;/em&gt;, no implementado al pie de la letra, pero funciona.&lt;/p&gt;
-
-&lt;p&gt;Por si están interesados en empujar el &lt;strong&gt;footer&lt;/strong&gt; y mantenerlo bien abajo, les dejo la principal &lt;a href=&quot;http://www.cssstickyfooter.com/&quot;&gt;fuente&lt;/a&gt; para resolver este asunto.&lt;/p&gt;
 </content>
   </entry>
   
