@@ -3,7 +3,7 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-03-01T06:22:46-03:00</updated>
+  <updated>2012-03-08T13:56:03-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
@@ -12,8 +12,8 @@
 
   
   <entry>
-    <id>http://arguser.com.ar/privacidad/2012/03/01/Buscador</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/privacidad/2012/03/01/Buscador.html"/>
+    <id>http://arguser.com.ar/2012/03/01/Buscador</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/03/01/Buscador.html"/>
     <title>La importancia en el motor de búsqueda</title>
     <updated>2012-03-01T00:00:00-03:00</updated>
     <author>
@@ -47,8 +47,8 @@ las alternativas están y, de estas profundizare más adelante. Por lo pronto le
   </entry>
   
   <entry>
-    <id>http://arguser.com.ar/opinión/2012/02/23/Puertas</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/opinión/2012/02/23/Puertas.html"/>
+    <id>http://arguser.com.ar/2012/02/23/Puertas</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/02/23/Puertas.html"/>
     <title>Antes de atravesar las puertas</title>
     <updated>2012-02-23T00:00:00-03:00</updated>
     <author>
@@ -88,8 +88,8 @@ interpretar y creer. Descubrimientos y Re-descubrimientos. Quizás muerte y resu
   </entry>
   
   <entry>
-    <id>http://arguser.com.ar/escrito/2012/02/10/El-Autodidacta-Extinto</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/escrito/2012/02/10/El-Autodidacta-Extinto.html"/>
+    <id>http://arguser.com.ar/2012/02/10/El-Autodidacta-Extinto</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/02/10/El-Autodidacta-Extinto.html"/>
     <title>El Autodidacta Extinto</title>
     <updated>2012-02-10T00:00:00-03:00</updated>
     <author>
@@ -111,8 +111,8 @@ Y ellos la siguen.&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>http://arguser.com.ar/linux/2012/02/09/Kindle</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/linux/2012/02/09/Kindle.html"/>
+    <id>http://arguser.com.ar/2012/02/09/Kindle</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/02/09/Kindle.html"/>
     <title>Montar un Kindle</title>
     <updated>2012-02-09T00:00:00-03:00</updated>
     <author>

@@ -125,10 +125,19 @@ pre {
   color: #D0D0D0;
   padding: 1em; }
 
-.category {
+.tags {
   font-size: 1.8em;
   color: #202020;
+  text-align: center;
   padding-bottom: 1.5em; }
+
+.postwtags {
+  padding-bottom: 5em; }
+
+#tag-cloud {
+  border: 1px dashed #ccc;
+  -moz-border-radius: 3px;
+  padding: 1em; }
 
 .meta {
   display: inline;
