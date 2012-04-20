@@ -3,13 +3,54 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-03-09T12:16:16-03:00</updated>
+  <updated>2012-04-20T16:37:00-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
     <email>arguser@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://arguser.com.ar/2012/04/12/ddg</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/04/12/ddg.html"/>
+    <title>Duck Duck Go</title>
+    <updated>2012-04-12T00:00:00-03:00</updated>
+    <author>
+      <name>José Pablo Leandro Martín</name>
+      <uri>http://arguser.com.ar/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ddghome.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ademas de un buscador que &lt;a href=&quot;https://duckduckgo.com/privacy.html&quot;&gt;no recauda ni comparte información personal de sus usuarios&lt;/a&gt;, una herramienta muy practica. DDG posee entre otras prestaciones:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Información sin clics: Al realizar una búsqueda DDG recauda información de varias fuentes y te las muestra al instante.
+&lt;img src=&quot;http://localhost:4000/images/ddgsearch.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;Resolución de cálculos, conversión de medidas y &lt;a href=&quot;&quot;&gt;más&lt;/a&gt;.
+&lt;img src=&quot;http://localhost:4000/images/ddgcalc.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/ddgconve.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://duckduckgo.com/bang.html&quot;&gt;Sintaxis de búsqueda directa&lt;/a&gt; que te permite realizar búsquedas directamente en el sitio que quieras evitando que el mismo reciba información en contexto con la búsqueda. La sintaxis esta conformada por el signo de admiración ! (bang)
+seguido, sin espacios, por el nombre del sitio donde queremos realizar la búsqueda (o su abreviatura) !&lt;sitio&gt; y por ultimo, el termino de búsqueda separado por un espacio.&lt;/p&gt;
+
+&lt;p&gt;Ej: &lt;em&gt;!wes bach&lt;/em&gt; (wes equivale a wikipedia en español).
+&lt;img src=&quot;http://localhost:4000/images/ddgbang.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/ddgbanged.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Para aprovechar al máximo estas funciones hice de DDG mi buscador por defecto indicandole al explorador web que envie el contenido de la barra de direcciones a DDG, evitando de esta manera tener que acceder al buscador para luego hacer la consulta o ubicarme en la barra dedicada a busquedas. Agilizando también el proceso.&lt;/p&gt;
+
+&lt;p&gt;Lo que mencione anteriormente se realiza de esta manera:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Tipea &quot;about:config&quot; en la barra de direcciónes.&lt;/li&gt;
+&lt;li&gt;Busca &quot;keyword.url&quot;.&lt;/li&gt;
+&lt;li&gt;Cambia su valor a &quot;https://duckduckgo.com/?q=&quot;.&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+  </entry>
   
   <entry>
     <id>http://arguser.com.ar/2012/03/01/Buscador</id>

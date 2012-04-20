@@ -110,6 +110,14 @@ nav {
       nav ul li a.inactive {
         text-decoration: line-through; }
 
+article img {
+  -moz-border-radius: 3px;
+  border: 1px dashed #ccc;
+  margin-top: 1em;
+  padding: 10px;
+  width: 580px; }
+article ol {
+  padding-left: 4em; }
 article section {
   padding-top: 4em; }
   article section p {
@@ -192,3 +200,7 @@ footer {
         color: #6D9EAB; }
         footer ul li a:hover, footer ul li a:active, footer ul li a:visited:hover, footer ul li a:visited:active {
           color: #ccc; }
+
+#links a {
+  display: block;
+  line-height: 2em; }
