@@ -203,4 +203,6 @@ footer {
 
 #links a {
   display: block;
-  line-height: 2em; }
+  float: left;
+  height: 60px;
+  width: 60px; }

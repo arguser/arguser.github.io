@@ -8,7 +8,6 @@
     <link href="/css/style.css" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="http://arguser.com.ar/favicon.ico" />
     <link REL="stylesheet" href="http://localhost:4000/css/lightbox.css" type="text/css" media="screen" />
-    <script type="text/javascript" src="http://localhost:4000/js/lightbox.js"></script>
 </head>
 <body>
         <div id="main" >
@@ -130,5 +129,20 @@ seguido, sin espacios, por el nombre del sitio donde queremos realizar la búsqu
     <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script>
     <script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script>
 <![endif]-->
+<script src="js/rainbowvis.js"></script>
+<script type="text/javascript">
+var divlink = document.getElementById('links');
+var link = divlink.getElementsByTagName('a');
+
+var rainbow = new Rainbow();
+rainbow.setSpectrum('FFFFFF', '6D9EAB', 'DE4314', '000000');
+rainbow.setNumberRange(0, link.length - 1);
+
+for (var i = 0; i < link.length; i++) {
+        var style = 'background-color:#' + rainbow.colourAt(i) + ';';
+        link[i].setAttribute('style', style);
+}
+</script>
+
 </body>
 </html>

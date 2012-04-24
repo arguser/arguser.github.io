@@ -8,7 +8,6 @@
     <link href="/css/style.css" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="http://arguser.com.ar/favicon.ico" />
     <link REL="stylesheet" href="http://localhost:4000/css/lightbox.css" type="text/css" media="screen" />
-    <script type="text/javascript" src="http://localhost:4000/js/lightbox.js"></script>
 </head>
 <body>
         <div id="main" >
@@ -26,29 +25,34 @@
 </nav>
 
             <div id="links">
-  <p><a href="http://arduino.cc">Arduino</a>
-<a href="http://reprap.org">RepRap</a>
-<a href="http://diylilcnc.org">DIYLILCNC</a>
-<a href="http://dinisnoise.org">DIN</a>
-<a href="http://puredata.info">PureData</a>
-<a href="http://processing.org/">Processing</a>
-<a href="http://supercollider.sourceforge.net/">SuperCollider</a>
-<a href="https://flossmanuals.net/">FLOSSManuals</a>
-<a href="https://duckduckgo.com">DuckDuckGo</a>
-<a href="http://yacy.net">YaCy</a>
-<a href="https://joindiaspora.com">Diaspora</a>
-<a href="http://kickstarter.com/">KickStarter</a>
-<a href="https://wikipedia.com">Wikipedia</a>
-<a href="http://archive.org">Archive</a>
-<a href="http://creativecommons.org">CreativeCommons</a>
-<a href="http://fsf.org">FSF</a>
-<a href="http://sass-lang.com">SASS</a>
-<a href="http://haml-lang.com">HAML</a>
-<a href="http://www.thimbl.net/">Thimbl</a>
-<a href="http://github.com">Github</a>
-<a href="http://jekyllrb.com">Jekyll</a></p>
+  <p><a href="http://arduino.cc"></a>
+<a href="http://reprap.org"></a>
+<a href="http://diylilcnc.org"></a>
+<a href="http://dinisnoise.org"></a>
+<a href="http://puredata.info"></a>
+<a href="http://processing.org"></a>
+<a href="http://supercollider.sourceforge.net"></a>
+<a href="https://flossmanuals.net"></a>
+<a href="https://duckduckgo.com"></a>
+<a href="http://yacy.net"></a>
+<a href="https://joindiaspora.com"></a>
+<a href="http://kickstarter.com"></a>
+<a href="https://wikipedia.com"></a>
+<a href="http://archive.org"></a>
+<a href="http://creativecommons.org"></a>
+<a href="http://fsf.org"></a>
+<a href="http://sass-lang.com"></a>
+<a href="http://haml-lang.com"></a>
+<a href="http://www.thimbl.net"></a>
+<a href="http://github.com"></a>
+<a href="http://jekyllrb.com"></a>
+<a href="http://chuck.cs.princeton.edu"></a>
+<a href="http://www.pawfal.org/fluxus"></a>
+<a href="http://www.polneiman.com"></a>
+<a href="http://www.ezequien.com.ar"></a></p>
 
 </div>
+
 
         </div>
 <footer>
@@ -76,5 +80,20 @@
     <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script>
     <script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script>
 <![endif]-->
+<script src="js/rainbowvis.js"></script>
+<script type="text/javascript">
+var divlink = document.getElementById('links');
+var link = divlink.getElementsByTagName('a');
+
+var rainbow = new Rainbow();
+rainbow.setSpectrum('FFFFFF', '6D9EAB', 'DE4314', '000000');
+rainbow.setNumberRange(0, link.length - 1);
+
+for (var i = 0; i < link.length; i++) {
+        var style = 'background-color:#' + rainbow.colourAt(i) + ';';
+        link[i].setAttribute('style', style);
+}
+</script>
+
 </body>
 </html>

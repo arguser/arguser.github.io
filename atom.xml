@@ -3,7 +3,7 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-04-20T16:37:00-03:00</updated>
+  <updated>2012-04-23T23:16:28-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
@@ -20,22 +20,22 @@
       <name>José Pablo Leandro Martín</name>
       <uri>http://arguser.com.ar/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/ddghome.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://arguser.com.ar/images/ddghome.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ademas de un buscador que &lt;a href=&quot;https://duckduckgo.com/privacy.html&quot;&gt;no recauda ni comparte información personal de sus usuarios&lt;/a&gt;, una herramienta muy practica. DDG posee entre otras prestaciones:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Información sin clics: Al realizar una búsqueda DDG recauda información de varias fuentes y te las muestra al instante.
-&lt;img src=&quot;http://localhost:4000/images/ddgsearch.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;http://arguser.com.ar/images/ddgsearch.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;Resolución de cálculos, conversión de medidas y &lt;a href=&quot;&quot;&gt;más&lt;/a&gt;.
-&lt;img src=&quot;http://localhost:4000/images/ddgcalc.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/ddgconve.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;http://arguser.com.ar/images/ddgcalc.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
+&lt;img src=&quot;http://arguser.com.ar/images/ddgconve.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://duckduckgo.com/bang.html&quot;&gt;Sintaxis de búsqueda directa&lt;/a&gt; que te permite realizar búsquedas directamente en el sitio que quieras evitando que el mismo reciba información en contexto con la búsqueda. La sintaxis esta conformada por el signo de admiración ! (bang)
 seguido, sin espacios, por el nombre del sitio donde queremos realizar la búsqueda (o su abreviatura) !&lt;sitio&gt; y por ultimo, el termino de búsqueda separado por un espacio.&lt;/p&gt;
 
 &lt;p&gt;Ej: &lt;em&gt;!wes bach&lt;/em&gt; (wes equivale a wikipedia en español).
-&lt;img src=&quot;http://localhost:4000/images/ddgbang.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/ddgbanged.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&quot;http://arguser.com.ar/images/ddgbang.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
+&lt;img src=&quot;http://arguser.com.ar/images/ddgbanged.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
