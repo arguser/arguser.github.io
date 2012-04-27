@@ -3,7 +3,7 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-04-25T00:13:45-03:00</updated>
+  <updated>2012-04-27T03:14:59-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
@@ -39,7 +39,7 @@ seguido, sin espacios, por el nombre del sitio donde queremos realizar la búsqu
 &lt;/ul&gt;
 
 
-&lt;p&gt;Para aprovechar al máximo estas funciones hice de &lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt; mi buscador por defecto indicandole al explorador web que envie el contenido de la barra de direcciones a &lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;, evitando de esta manera tener que acceder al buscador para luego hacer la consulta o ubicarme en la barra dedicada a busquedas. Agilizando también el proceso.&lt;/p&gt;
+&lt;p&gt;Para aprovechar al máximo estas funciones hice de &lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt; mi buscador por defecto indicandole al &lt;a href=&quot;http://getfirefox.com&quot;&gt;explorador web&lt;/a&gt; que envie el contenido de la barra de direcciones a &lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;, evitando de esta manera tener que acceder al buscador para luego hacer la consulta o ubicarme en la barra dedicada a busquedas. Agilizando también el proceso.&lt;/p&gt;
 
 &lt;p&gt;Lo que mencione anteriormente se realiza de esta manera:&lt;/p&gt;
 
