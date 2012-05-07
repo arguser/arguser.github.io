@@ -13,7 +13,8 @@ body {
 
 a, a:visited {
   color: #666;
-  text-decoration: none; }
+  text-decoration: none;
+  outline: 0; }
   a:hover, a:active, a:visited:hover, a:visited:active {
     -moz-transition: 0.3s;
     color: #DE4314; }
@@ -117,9 +118,18 @@ article img {
   width: 580px; }
 article ol {
   padding-left: 4em; }
+article ul {
+  padding: 0.5em; }
+  article ul li {
+    list-style-type: square;
+    margin-left: 2em;
+    padding: 0.5em; }
+    article ul li a, article ul li a:visited {
+      color: #6D9EAB; }
 article section {
   padding-top: 4em; }
   article section p {
+    line-height: 1.5em;
     padding-top: 0.8em;
     padding-bottom: 0.8em; }
     article section p a, article section p a:visited {
@@ -154,14 +164,25 @@ pre {
     float: right; }
 
 a.prev, a.next {
-  display: inline;
-  color: #DE4314;
+  /*        display: inline;
+          color: #DE4314;
+          float: right;
+          margin-top: -0.6em;
+          font-size: 5em;
+          line-height: 100%;
+          &:hover,&:active { color: #CCC; } */
+  margin-top: -40px;
   float: right;
-  margin-top: -0.6em;
-  font-size: 5em;
-  line-height: 100%; }
-  a.prev:hover, a.prev:active, a.next:hover, a.next:active {
-    color: #CCC; }
+  display: inline;
+  position: relative; }
+  a.prev img, a.next img {
+    border: none;
+    width: 32px;
+    height: 32px; }
+  a.prev:hover, a.next:hover {
+    border-bottom: 1px dashed; }
+  a.prev:active, a.next:active {
+    border-bottom: 1px solid; }
 
 footer {
   display: inline;

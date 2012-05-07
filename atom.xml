@@ -3,13 +3,55 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-04-27T03:14:59-03:00</updated>
+  <updated>2012-05-07T00:17:54-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
     <email>arguser@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://arguser.com.ar/2012/05/06/yacy</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/05/06/yacy.html"/>
+    <title>YaCy</title>
+    <updated>2012-05-06T00:00:00-03:00</updated>
+    <author>
+      <name>José Pablo Leandro Martín</name>
+      <uri>http://arguser.com.ar/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/yacyhome.png&quot;&gt;&lt;img src=&quot;/images/yacyhome.png&quot; alt=&quot;YaCy&quot; /&gt;&lt;/a&gt;
+Hablamos de un &lt;a href=&quot;https://es.wikipedia.org/wiki/Motor_de_busqueda&quot;&gt;&lt;em&gt;motor de busqueda&lt;/em&gt;&lt;/a&gt; licenciado bajo
+&lt;a href=&quot;https://www.gnu.org/licenses/gpl-2.0.html&quot;&gt;&lt;strong&gt;GPLv2&lt;/strong&gt;&lt;/a&gt; que funciona de una
+forma que vale la pena destacar: Principalmente su infraestructura esta basada el protocolo
+&lt;acronym title=&quot;Peer to Peer&quot;&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Peer-to-peer&quot;&gt;P2P&lt;/a&gt;&lt;/acronym&gt; convirtiendo
+a &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; en un &lt;a href=&quot;https://en.wikipedia.org/wiki/Distributed_search_engine&quot;&gt;&lt;strong&gt;motor de búsqueda distribuido&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/networkview.png&quot;&gt;&lt;img src=&quot;/images/networkview.png&quot; alt=&quot;YaCy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Entonces, además del beneficio que conlleva ser &lt;a href=&quot;https://www.gnu.org/philosophy/free-sw.es.html&quot;&gt;&lt;strong&gt;Software
+Libre&lt;/strong&gt;&lt;/a&gt; y de contemplarse lo mencionado en &lt;a href=&quot;http://arguser.com.ar/2012/03/01/Buscador.html&quot;&gt;&lt;em&gt;la importancia en el motor de búsqueda&lt;/em&gt;&lt;/a&gt;, el estar su &lt;a href=&quot;https://es.wikipedia.org/wiki/Base_de_datos&quot;&gt;base de datos&lt;/a&gt; conforme por una &lt;a href=&quot;https://es.wikipedia.org/wiki/Peer-to-peer&quot;&gt;red distribuida&lt;/a&gt; de usuarios se hace prácticamente
+&lt;strong&gt;imposible la censura&lt;/strong&gt;, además de que los resultados &lt;strong&gt;no se verán promovidos por
+el dinero&lt;/strong&gt;, como sucede con la mayoría de los buscadores comerciales (Google,
+Bing, Yahoo).
+&lt;img src=&quot;http://yacy.net/images/philosophie_gatekeeper.png&quot; alt=&quot;buscadores comerciales&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Los usuarios de &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; pueden clasificarse en &lt;em&gt;pasivo&lt;/em&gt; o &lt;em&gt;activo&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Un usuario &lt;em&gt;pasivo&lt;/em&gt; es aquel que puede generar consultas al buscador.&lt;/li&gt;
+&lt;li&gt;Un usuario &lt;em&gt;activo&lt;/em&gt; además de consultar al buscador, provee de resultados a la &lt;a href=&quot;https://es.wikipedia.org/wiki/Base_de_datos&quot;&gt;base de datos&lt;/a&gt; descentralizada.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Para ser un usuario &lt;em&gt;activo&lt;/em&gt; &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; viene equipado con herramientas que facilitan convertirse en contribuyente y de esta manera aumentar, a medida que aumentan los usuarios &lt;em&gt;activos&lt;/em&gt;, la escala del buscador. De todas formas, las calificaciones anteriormente mencionadas no hacen ninguna diferencia en cuanto al uso del servicio; no significan limitación o privilegio alguno.&lt;/p&gt;
+
+&lt;p&gt;Las búsquedas realizadas en &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; no son almacenadas y no es posible para los usuarios eliminar entradas del indice de resultados global, evitando de esta manera la censura.
+&lt;img src=&quot;http://yacy.net/images/philosophie_decentralized.png&quot; alt=&quot;buscador descentralizado&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; es multi-plataforma y su instalación es poco complicada, si poseen una computadora de escritorio y la misma consta de acceso permanente a Internet pueden hacerse participes del buscador libre y publico como usuarios &lt;em&gt;activos&lt;/em&gt;. En caso de encontrase en otra situación, de utilizar una portátil, nunca esta de más tener &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; para realizar algunas consultas a la web como usuario &lt;em&gt;pasivo&lt;/em&gt;, con la certeza de que su devolución es todo lo que hay para ofrecer, ni más ni menos.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://arguser.com.ar/2012/04/12/ddg</id>
@@ -83,7 +125,7 @@ Ante la duda, a tener en cuenta se debería: &lt;strong&gt;neutralidad&lt;/stron
 &lt;p&gt;Recapitulando, &lt;strong&gt;privacidad&lt;/strong&gt; y &lt;strong&gt;neutralidad&lt;/strong&gt; como grandes rasgos a tener de un buscador, no es mucho pedir y muy importante. Resta con &lt;em&gt;vencer la
 comodidad&lt;/em&gt;, dejar de lado lo que venga por defecto en nuestro navegador y abrir los ojos en busca de alternativas que cubran estos requisitos. Por suerte,
 las alternativas están y, de estas profundizare más adelante. Por lo pronto les dejo mis dos predilectas: En cuanto a &lt;strong&gt;privacidad&lt;/strong&gt; confió  en que
-&lt;a href=&quot;https://duckduckgo.com&quot;&gt;Duck Duck Go&lt;/a&gt; probará ser ademas útil y, en cuanto a &lt;strong&gt;neutralidad&lt;/strong&gt; me asegura la existencia de &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;http://arguser.com.ar/2012/04/12/ddg.html&quot;&gt;Duck Duck Go&lt;/a&gt; probará ser ademas útil y, en cuanto a &lt;strong&gt;neutralidad&lt;/strong&gt; me asegura la existencia de &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   
