@@ -3,7 +3,7 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-05-07T12:13:27-03:00</updated>
+  <updated>2012-05-07T20:22:06-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
@@ -32,9 +32,9 @@ a &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; en un &lt;a href=&quo
 &lt;p&gt;Entonces, además del beneficio que conlleva ser &lt;a href=&quot;https://www.gnu.org/philosophy/free-sw.es.html&quot;&gt;&lt;strong&gt;Software
 Libre&lt;/strong&gt;&lt;/a&gt; y de contemplarse lo mencionado en &lt;a href=&quot;http://arguser.com.ar/2012/03/01/Buscador.html&quot;&gt;&lt;em&gt;la importancia en el motor de búsqueda&lt;/em&gt;&lt;/a&gt;, el estar su &lt;a href=&quot;https://es.wikipedia.org/wiki/Base_de_datos&quot;&gt;base de datos&lt;/a&gt; conforme por una &lt;a href=&quot;https://es.wikipedia.org/wiki/Peer-to-peer&quot;&gt;red distribuida&lt;/a&gt; de usuarios se hace prácticamente
 &lt;strong&gt;imposible la censura&lt;/strong&gt;, además de que los resultados &lt;strong&gt;no se verán promovidos por
-el dinero&lt;/strong&gt;, como sucede con la mayoría de los buscadores comerciales (Google,
-Bing, Yahoo).
-&lt;img src=&quot;/images/yacycen.png&quot; alt=&quot;buscadores comerciales&quot; /&gt;&lt;/p&gt;
+el dinero&lt;/strong&gt;, como sucede con la mayoría de los buscadores comerciales (Google, Bing, Yahoo).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/yacycen.png&quot; alt=&quot;buscadores comerciales&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Los usuarios de &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; pueden clasificarse en &lt;em&gt;pasivo&lt;/em&gt; o &lt;em&gt;activo&lt;/em&gt;:&lt;/p&gt;
 
@@ -46,8 +46,13 @@ Bing, Yahoo).
 
 &lt;p&gt;Para ser un usuario &lt;em&gt;activo&lt;/em&gt; &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; viene equipado con herramientas que facilitan convertirse en contribuyente y de esta manera aumentar, a medida que aumentan los usuarios &lt;em&gt;activos&lt;/em&gt;, la escala del buscador. De todas formas, las calificaciones anteriormente mencionadas no hacen ninguna diferencia en cuanto al uso del servicio; no significan limitación o privilegio alguno.&lt;/p&gt;
 
-&lt;p&gt;Las búsquedas realizadas en &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; no son almacenadas y no es posible para los usuarios eliminar entradas del indice de resultados global, evitando de esta manera la censura.
-&lt;img src=&quot;/images/yacydes.png&quot; alt=&quot;buscador descentralizado&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Las búsquedas realizadas en &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; no son almacenadas y no es posible para los usuarios eliminar entradas del indice de resultados global, evitando de esta manera la censura.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/yacydes.png&quot; alt=&quot;buscador descentralizado&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otra de las aplicaciones que se le puede dar a &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; es su implementación como &lt;a href=&quot;https://es.wikipedia.org/wiki/Motor_de_busqueda&quot;&gt;&lt;em&gt;motor de busqueda&lt;/em&gt;&lt;/a&gt; en una &lt;a href=&quot;https://es.wikipedia.org/wiki/Intranet&quot;&gt;red interna&lt;/a&gt;, por ejemplo la red de una Universidad. O también como &lt;a href=&quot;https://es.wikipedia.org/wiki/Motor_de_busqueda&quot;&gt;&lt;em&gt;motor de busqueda&lt;/em&gt;&lt;/a&gt; de tus paginas webs, en vez de tercerizar como la mayoría utilizando Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/yacyconf.png&quot; alt=&quot;configuracion de yacy&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; es multi-plataforma y su instalación es poco complicada, si poseen una computadora de escritorio y la misma consta de acceso permanente a Internet pueden hacerse participes del buscador libre y publico como usuarios &lt;em&gt;activos&lt;/em&gt;. En caso de encontrase en otra situación, de utilizar una portátil, nunca esta de más tener &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; para realizar algunas consultas a la web como usuario &lt;em&gt;pasivo&lt;/em&gt;, con la certeza de que su devolución es todo lo que hay para ofrecer, ni más ni menos.&lt;/p&gt;
 </content>
@@ -64,12 +69,12 @@ Bing, Yahoo).
     </author>
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://arguser.com.ar/images/ddghome.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Ademas de un buscador que &lt;a href=&quot;https://duckduckgo.com/privacy.html&quot;&gt;no recauda ni comparte información personal de sus usuarios&lt;/a&gt; (motivo por el cual es mencionado en el &lt;a href=&quot;http://arguser.com.ar/2012/03/01/Buscador.html&quot;&gt;articulo anterior&lt;/a&gt;), una herramienta muy practica. &lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt; posee entre otras prestaciones:&lt;/p&gt;
+&lt;p&gt;Ademas de un buscador que &lt;a href=&quot;https://duckduckgo.com/privacy.html&quot;&gt;no recauda ni comparte información personal de sus usuarios&lt;/a&gt; (motivo por el cual es mencionado en el &lt;a href=&quot;http://arguser.com.ar/2012/03/01/Buscador.html&quot;&gt;articulo anterior&lt;/a&gt;), una herramienta muy practica. &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; posee entre otras prestaciones:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Información sin clics: Al realizar una búsqueda &lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt; recauda información de varias fuentes y te las muestra al instante.
+&lt;li&gt;Información sin clics: Al realizar una búsqueda &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; recauda información de varias fuentes y te las muestra al instante.
 &lt;img src=&quot;http://arguser.com.ar/images/ddgsearch.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
-&lt;li&gt;Resolución de cálculos, conversión de medidas y &lt;a href=&quot;&quot;&gt;más&lt;/a&gt;.
+&lt;li&gt;Resolución de cálculos, conversión de medidas y &lt;a href=&quot;https://duckduckgo.com/goodies.html&quot;&gt;más&lt;/a&gt;.
 &lt;img src=&quot;http://arguser.com.ar/images/ddgcalc.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
 &lt;img src=&quot;http://arguser.com.ar/images/ddgconve.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://duckduckgo.com/bang.html&quot;&gt;Sintaxis de búsqueda directa&lt;/a&gt; que te permite realizar búsquedas directamente en el sitio que quieras evitando que el mismo reciba información en contexto con la búsqueda. La sintaxis esta conformada por el signo de admiración ! (bang)
@@ -81,7 +86,7 @@ seguido, sin espacios, por el nombre del sitio donde queremos realizar la búsqu
 &lt;/ul&gt;
 
 
-&lt;p&gt;Para aprovechar al máximo estas funciones hice de &lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt; mi buscador por defecto indicandole al &lt;a href=&quot;http://getfirefox.com&quot;&gt;explorador web&lt;/a&gt; que envie el contenido de la barra de direcciones a &lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;, evitando de esta manera tener que acceder al buscador para luego hacer la consulta o ubicarme en la barra dedicada a busquedas. Agilizando también el proceso.&lt;/p&gt;
+&lt;p&gt;Para aprovechar al máximo estas funciones hice de &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; mi buscador por defecto indicandole al &lt;a href=&quot;http://getfirefox.com&quot;&gt;explorador web&lt;/a&gt; que envie el contenido de la barra de direcciones a &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt;, evitando de esta manera tener que acceder al buscador para luego hacer la consulta o ubicarme en la barra dedicada a busquedas. Agilizando también el proceso.&lt;/p&gt;
 
 &lt;p&gt;Lo que mencione anteriormente se realiza de esta manera:&lt;/p&gt;
 
@@ -111,21 +116,21 @@ sexuales y lo que te puedas imaginar&lt;/strong&gt;. Proveedores de este tipo de
 Pero también para hacerte llegar publicidad pertinente, lo que te convierte en un producto ya que la publicidad de terceros te llega en base a tu perfil.
 Esto, por ejemplo, podría resultar en que esporádicamente se presenten publicidades que puedan poner en juego asuntos privados ante otras personas. Demás
 esta decir que al usar un servicio de búsqueda que &lt;em&gt;no respete nuestra privacidad&lt;/em&gt; está esta ya comprometida y, &lt;strong&gt;puede y va ser utilizada a fines de lucro&lt;/strong&gt;.
-A tener en cuenta se debería: &lt;strong&gt;privacidad&lt;/strong&gt;.&lt;/p&gt;
+A tener en cuenta se debería: &lt;a href=&quot;https://es.wikipedia.org/wiki/Privacidad_en_Internet&quot;&gt;&lt;strong&gt;privacidad&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Al generar consultas buscando por una respuesta, pienso que todos quieren cual les sea de utilidad y &lt;em&gt;por sobre todo&lt;/em&gt; la fiel y sincera a la consulta realizada.
 Motores de búsqueda comerciales &lt;em&gt;permiten&lt;/em&gt; que los &lt;strong&gt;resultados se vean modificados por el dinero&lt;/strong&gt;, en forma de &lt;em&gt;promover&lt;/em&gt; o &lt;em&gt;publicitar&lt;/em&gt;, sitios aparecen por sobre otros.
-Otro caso es la &lt;strong&gt;censura&lt;/strong&gt;, la desconocemos si la hay pero puede haberla. Los resultados que recibimos vienen de bases de datos que crecen al ritmo de las
+Otro caso es la &lt;a href=&quot;https://es.wikipedia.org/wiki/Censura&quot;&gt;&lt;strong&gt;censura&lt;/strong&gt;&lt;/a&gt;, la desconocemos si la hay pero puede haberla. Los resultados que recibimos vienen de bases de datos que crecen al ritmo de las
 agujas del reloj y estas son también controladas: como un sitio entra en la base de datos para luego presentárselos como resultado, puede también ser eliminado o
 excluido a una &lt;em&gt;lista negra&lt;/em&gt; y permanecer lejos de nuestro alcance.
 En la actualidad podemos ver como &lt;strong&gt;la libertad en Internet es continuamente amenazada&lt;/strong&gt;. Demás esta decir, de nuevo, que aunque rechazadas las propuestas,
-siempre y anteriormente a los tiempos de &lt;strong&gt;SOPA&lt;/strong&gt;, &lt;strong&gt;ACTA&lt;/strong&gt; y similares; hubo algún tipo de represión, está, no siempre se percibe.
-Ante la duda, a tener en cuenta se debería: &lt;strong&gt;neutralidad&lt;/strong&gt;.&lt;/p&gt;
+siempre y anteriormente a los tiempos de &lt;a href=&quot;https://es.wikipedia.org/wiki/SOPA&quot;&gt;&lt;strong&gt;SOPA&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&quot;https://es.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement&quot;&gt;&lt;strong&gt;ACTA&lt;/strong&gt;&lt;/a&gt; y similares; hubo algún tipo de represión, está, no siempre se percibe.
+Ante la duda, a tener en cuenta se debería: &lt;a href=&quot;https://es.wikipedia.org/wiki/Neutralidad_de_red&quot;&gt;&lt;strong&gt;neutralidad&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Recapitulando, &lt;strong&gt;privacidad&lt;/strong&gt; y &lt;strong&gt;neutralidad&lt;/strong&gt; como grandes rasgos a tener de un buscador, no es mucho pedir y muy importante. Resta con &lt;em&gt;vencer la
 comodidad&lt;/em&gt;, dejar de lado lo que venga por defecto en nuestro navegador y abrir los ojos en busca de alternativas que cubran estos requisitos. Por suerte,
 las alternativas están y, de estas profundizare más adelante. Por lo pronto les dejo mis dos predilectas: En cuanto a &lt;strong&gt;privacidad&lt;/strong&gt; confió  en que
-&lt;a href=&quot;http://arguser.com.ar/2012/04/12/ddg.html&quot;&gt;Duck Duck Go&lt;/a&gt; probará ser ademas útil y, en cuanto a &lt;strong&gt;neutralidad&lt;/strong&gt; me asegura la existencia de &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;http://arguser.com.ar/2012/04/12/ddg.html&quot;&gt;Duck Duck Go&lt;/a&gt; probará ser ademas útil y, en cuanto a &lt;strong&gt;neutralidad&lt;/strong&gt; me asegura la existencia de &lt;a href=&quot;http://arguser.com.ar/2012/05/07/yacy.html&quot;&gt;YaCy&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   
