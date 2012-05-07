@@ -3,7 +3,7 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-05-07T00:17:54-03:00</updated>
+  <updated>2012-05-07T12:13:27-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
@@ -12,10 +12,10 @@
 
   
   <entry>
-    <id>http://arguser.com.ar/2012/05/06/yacy</id>
-    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/05/06/yacy.html"/>
+    <id>http://arguser.com.ar/2012/05/07/yacy</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/05/07/yacy.html"/>
     <title>YaCy</title>
-    <updated>2012-05-06T00:00:00-03:00</updated>
+    <updated>2012-05-07T00:00:00-03:00</updated>
     <author>
       <name>José Pablo Leandro Martín</name>
       <uri>http://arguser.com.ar/</uri>
@@ -34,7 +34,7 @@ Libre&lt;/strong&gt;&lt;/a&gt; y de contemplarse lo mencionado en &lt;a href=&qu
 &lt;strong&gt;imposible la censura&lt;/strong&gt;, además de que los resultados &lt;strong&gt;no se verán promovidos por
 el dinero&lt;/strong&gt;, como sucede con la mayoría de los buscadores comerciales (Google,
 Bing, Yahoo).
-&lt;img src=&quot;http://yacy.net/images/philosophie_gatekeeper.png&quot; alt=&quot;buscadores comerciales&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/yacycen.png&quot; alt=&quot;buscadores comerciales&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Los usuarios de &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; pueden clasificarse en &lt;em&gt;pasivo&lt;/em&gt; o &lt;em&gt;activo&lt;/em&gt;:&lt;/p&gt;
 
@@ -47,7 +47,7 @@ Bing, Yahoo).
 &lt;p&gt;Para ser un usuario &lt;em&gt;activo&lt;/em&gt; &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; viene equipado con herramientas que facilitan convertirse en contribuyente y de esta manera aumentar, a medida que aumentan los usuarios &lt;em&gt;activos&lt;/em&gt;, la escala del buscador. De todas formas, las calificaciones anteriormente mencionadas no hacen ninguna diferencia en cuanto al uso del servicio; no significan limitación o privilegio alguno.&lt;/p&gt;
 
 &lt;p&gt;Las búsquedas realizadas en &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; no son almacenadas y no es posible para los usuarios eliminar entradas del indice de resultados global, evitando de esta manera la censura.
-&lt;img src=&quot;http://yacy.net/images/philosophie_decentralized.png&quot; alt=&quot;buscador descentralizado&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/yacydes.png&quot; alt=&quot;buscador descentralizado&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; es multi-plataforma y su instalación es poco complicada, si poseen una computadora de escritorio y la misma consta de acceso permanente a Internet pueden hacerse participes del buscador libre y publico como usuarios &lt;em&gt;activos&lt;/em&gt;. En caso de encontrase en otra situación, de utilizar una portátil, nunca esta de más tener &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; para realizar algunas consultas a la web como usuario &lt;em&gt;pasivo&lt;/em&gt;, con la certeza de que su devolución es todo lo que hay para ofrecer, ni más ni menos.&lt;/p&gt;
 </content>
