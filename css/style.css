@@ -1,11 +1,6 @@
 @font-face {
-  font-family: Terminus;
-  src: url("/font/TerminusMedium-4.36.ttf"); }
-
-@font-face {
-  font-family: Terminus;
-  src: url("/font/TerminusBold-4.36.ttf");
-  font-weight: bold; }
+  font-family: inconsolata;
+  src: url("/font/Inconsolata.otf"); }
 
 * {
   margin: 0;
@@ -18,7 +13,7 @@ html {
 
 body {
   height: 100%;
-  font-family: Terminus; }
+  font-family: inconsolata; }
   body #main {
     width: 600px;
     margin: auto; }
