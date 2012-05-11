@@ -1,3 +1,12 @@
+@font-face {
+  font-family: Terminus;
+  src: url("/font/TerminusMedium-4.36.ttf"); }
+
+@font-face {
+  font-family: Terminus;
+  src: url("/font/TerminusBold-4.36.ttf");
+  font-weight: bold; }
+
 * {
   margin: 0;
   padding: 0; }
@@ -9,7 +18,7 @@ html {
 
 body {
   height: 100%;
-  font-family: monospace; }
+  font-family: Terminus; }
   body #main {
     width: 600px;
     margin: auto; }
