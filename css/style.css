@@ -71,7 +71,8 @@ body {
       body #main article a.prev img, body #main article a.next img {
         border: none;
         width: 32px;
-        height: 32px; }
+        height: 32px;
+        padding: 10px; }
       body #main article a.prev:hover, body #main article a.next:hover {
         border-bottom: 1px dashed; }
       body #main article a.prev:active, body #main article a.next:active {
@@ -98,16 +99,16 @@ body {
         padding: 1em;
         margin-top: 1em;
         margin-bottom: 1em; }
+      body #main article section img {
+        border-radius: 3px;
+        border: 1px dashed #ccc;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        padding: 10px;
+        width: 580px; }
     body #main article img {
-      border-radius: 3px;
-      border: 1px dashed #ccc;
       margin-top: 1em;
-      margin-bottom: 1em;
-      padding: 10px;
-      width: 580px; }
-    body #main article div#disqus_thread img {
-      width: auto;
-      max-width: none; }
+      margin-bottom: 1em; }
     body #main time {
       float: left;
       padding: 0 1em 0 1em;
