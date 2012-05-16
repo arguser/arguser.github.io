@@ -72,7 +72,9 @@ body {
         border: none;
         width: 32px;
         height: 32px;
-        padding: 10px; }
+        padding: 10px;
+        margin-top: 1em;
+        margin-bottom: 1em; }
       body #main article a.prev:hover, body #main article a.next:hover {
         border-bottom: 1px dashed; }
       body #main article a.prev:active, body #main article a.next:active {
@@ -106,9 +108,6 @@ body {
         margin-bottom: 1em;
         padding: 10px;
         width: 580px; }
-    body #main article img {
-      margin-top: 1em;
-      margin-bottom: 1em; }
     body #main time {
       float: left;
       padding: 0 1em 0 1em;
