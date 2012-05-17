@@ -134,7 +134,8 @@ body {
     body #main #tag-cloud {
       border: 1px dashed #ccc;
       border-radius: 3px;
-      padding: 1em; }
+      padding: 1em;
+      margin-bottom: 4em; }
     body #main #links {
       height: 580px; }
       body #main #links a {
@@ -149,35 +150,35 @@ body {
     left: 0;
     width: 100%;
     color: #CCC;
-    line-height: 24px;
-    background-image: url(/favicon.ico);
-    background-size: 16px 16px;
-    background-position: left top;
-    background-repeat: no-repeat;
     background-color: #202020; }
     body footer p {
-      text-align: left;
       display: inline;
-      padding-left: 21px; }
+      line-height: 32px;
+      font-size: 14px; }
       body footer p a, body footer p a:visited {
         color: #DE4314; }
         body footer p a:hover, body footer p a:active, body footer p a:visited:hover, body footer p a:visited:active {
-          color: #ccc; }
-    body footer ul {
-      display: inline;
-      float: right;
-      text-align: right;
-      padding-right: 21px;
-      background-image: url(/faviconm.ico);
-      background-size: 16px 16px;
-      background-position: right top;
-      background-repeat: no-repeat; }
-      body footer ul li {
-        display: inline; }
-        body footer ul li a, body footer ul li a:visited {
           color: #6D9EAB; }
-          body footer ul li a:hover, body footer ul li a:active, body footer ul li a:visited:hover, body footer ul li a:visited:active {
-            color: #ccc; }
+      body footer p.left {
+        text-align: left;
+        float: left;
+        padding-left: 16px; }
+      body footer p.right {
+        text-align: right;
+        float: right;
+        padding-right: 16px; }
+    body footer img {
+      position: absolute; }
+      body footer img.left {
+        left: 0; }
+      body footer img.right {
+        right: 0; }
+      body footer img.bottoml {
+        bottom: 0;
+        left: 0; }
+      body footer img.bottomr {
+        bottom: 0;
+        right: 0; }
 
 a, a:visited {
   color: #666;
