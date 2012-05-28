@@ -82,8 +82,11 @@ body {
     body #main article section {
       line-height: 1.6em;
       padding-top: 4em; }
-      body #main article section p a, body #main article section p a:visited {
-        color: #6D9EAB; }
+      body #main article section p {
+        padding-top: 1em;
+        padding-bottom: 1em; }
+        body #main article section p a, body #main article section p a:visited {
+          color: #6D9EAB; }
       body #main article section ol img {
         margin-left: -3em; }
       body #main article section ol li {

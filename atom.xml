@@ -3,13 +3,48 @@
   <title>arguser.com.ar</title>
   <link href="http://arguser.com.ar/"/>
   <link type="application/atom+xml" rel="self" href="http://arguser.com.ar/atom.xml"/>
-  <updated>2012-05-17T19:55:08-03:00</updated>
+  <updated>2012-05-28T11:50:19-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
     <email>arguser@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://arguser.com.ar/2012/05/28/openhacks</id>
+    <link type="text/html" rel="alternate" href="http://arguser.com.ar/2012/05/28/openhacks.html"/>
+    <title>OpenHacks de Interactive Dynamics SRL</title>
+    <updated>2012-05-28T00:00:00-03:00</updated>
+    <author>
+      <name>José Pablo Leandro Martín</name>
+      <uri>http://arguser.com.ar/</uri>
+    </author>
+    <content type="html">&lt;p&gt;OpenHacks es un sitio de Rosario, provincia de Santa Fe, que se encarga de la importación, distribución y comercialización de productos tecnológicos,
+haciendo énfasis en &lt;a href=&quot;https://es.wikipedia.org/wiki/Open_source_hardware&quot;&gt;Open Source Hardware&lt;/a&gt; abreviado &lt;acronym title=&quot;Open Source
+Hardware&quot;&gt;OSH&lt;/acronym&gt;.&lt;br/&gt;
+Me encontré con ellos buscando en el sitio de &lt;a href=&quot;http://arduino.cc&quot;&gt;Arduino&lt;/a&gt; por distribuidores en Argentina, queriéndome asegurar de que al realizar la compra
+no reciba un clon Chino de este microcontrolador y así es que me dirigí a fuentes oficiales.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openhacks.png&quot; alt=&quot;OpenHacks&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A parte de &lt;a href=&quot;http://openhacks.com/&quot;&gt;OpenHacks&lt;/a&gt;, en nuestro
+país comercializan también &lt;a href=&quot;http://www.intekelectronica.com.ar/&quot;&gt;Intek Electrónica&lt;/a&gt; y &lt;a href=&quot;http://www.ditentec.com.ar/&quot;&gt;DitenTec&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;El distribuidor que se ubica en Rosario me ofrecía un mejor precio, pero me encontré con que los gastos de envío alcanzarían casi el 50% del producto
+que estaba intentando adquirir, en caso de que me lo haga llegar a departamento Colón, Provincia de Entre Ríos. Vale la pena mencionar que el servicio de
+envío es provisto por OCA.&lt;br/&gt;
+Por suerte pude recurrir a una amiga que se encuentra estudiando en la ciudad de Rosario, una vez realizada la compra y en el transcurso del día en
+que el pago les fue acreditado pude organizar para hacer llegar el paquete a su domicilio y posteriormente recibirlo cuando nos encontremos.&lt;br/&gt;
+Esto fue, el pasado fin de semana.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/arduinouno.png&quot; alt=&quot;Arduino UNO R3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En resumen, la experiencia con la gente de &lt;a href=&quot;http://openhacks.com&quot;&gt;OpenHacks&lt;/a&gt; fue excelente, hubo buena disposición a la hora de acordar el domicilio de
+envío (que cambio en el transcurso del día), esto en conjunto de buena atención y comunicación. El paquete, como debe ser, venía con almohadillas de aire
+como protección y el &lt;a href=&quot;http://arduino.cc&quot;&gt;Arduino&lt;/a&gt; autentico (hecho en Italia) llego en perfecto estado.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://arguser.com.ar/2012/05/07/yacy</id>
