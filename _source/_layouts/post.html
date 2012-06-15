@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% assign post = page %}
+<article>
+    <header>
+      {% include post_title.html %}
+      {% include inpost_meta.html %}
+      {% include post_navigation.html %}
+    </header>
+<section>
+ {{ content }}
+</section>
+{% if page.comments %}
+    {% include post_comment.html %}
+{% endif %}
+</article>

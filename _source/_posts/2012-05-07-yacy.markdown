@@ -1,0 +1,75 @@
+---
+layout: post
+title: YaCy
+comments: true
+tags:
+- buscadores
+- neutralidad
+- software libre
+---
+[![YaCy](/images/yacyhome.png)](/images/yacyhome.png) Hablamos de un
+[*motor de busqueda*][1] licenciado bajo [**GPLv2**][2] que funciona de
+una forma que vale la pena destacar: Principalmente su infraestructura
+esta basada el protocolo <acronym title="Peer to
+Peer">[P2P][3]</acronym> convirtiendo a [YaCy][4] en un [**motor de
+búsqueda distribuido**][5].
+
+[![YaCy](/images/networkview.png)](/images/networkview.png)
+
+Entonces, además del beneficio que conlleva ser [**Software Libre**][6]
+y de contemplarse lo mencionado en [*la importancia en el motor de
+búsqueda*][7], el estar su [base de datos][8] conforme por una [red
+distribuida][3] de usuarios se hace prácticamente **imposible la
+censura**, además de que los resultados **no se verán promovidos por el
+dinero**, como sucede con la mayoría de los buscadores comerciales
+(Google, Bing, Yahoo).
+
+![buscadores comerciales](/images/yacycen.png)
+
+Los usuarios de [YaCy][4] pueden clasificarse en *pasivo* o *activo*\:
+
+* Un usuario *pasivo* es aquel que puede generar consultas al buscador.
+* Un usuario *activo* además de consultar al buscador, provee de
+  resultados a la [base de datos][8] descentralizada.
+
+Para ser un usuario *activo* [YaCy][4] viene equipado con herramientas
+que facilitan convertirse en contribuyente y de esta manera aumentar, a
+medida que aumentan los usuarios *activos*, la escala del buscador. De
+todas formas, las calificaciones anteriormente mencionadas no hacen
+ninguna diferencia en cuanto al uso del servicio; no significan
+limitación o privilegio alguno.
+
+Las búsquedas realizadas en [YaCy][4] no son almacenadas y no es posible
+para los usuarios eliminar entradas del indice de resultados global,
+evitando de esta manera la censura.
+
+![buscador descentralizado](/images/yacydes.png)
+
+Otra de las aplicaciones que se le puede dar a [YaCy][4] es su
+implementación como [*motor de busqueda*][1] en una [red interna][9],
+por ejemplo la red de una Universidad. O también como [*motor de
+busqueda*][1] de tus paginas webs, en vez de tercerizar como la mayoría
+utilizando Google.
+
+![configuracion de yacy](/images/yacyconf.png)
+
+[YaCy][4] es multi-plataforma y su instalación es poco complicada, si
+poseen una computadora de escritorio y la misma consta de acceso
+permanente a Internet pueden hacerse participes del buscador libre y
+publico como usuarios *activos*. En caso de encontrase en otra
+situación, de utilizar una portátil, nunca esta de más tener [YaCy][4]
+para realizar algunas consultas a la web como usuario *pasivo*, con la
+certeza de que su devolución es todo lo que hay para ofrecer, ni más ni
+menos.
+
+
+
+[1]: https://es.wikipedia.org/wiki/Motor_de_busqueda 
+[2]: https://www.gnu.org/licenses/gpl-2.0.html 
+[3]: https://es.wikipedia.org/wiki/Peer-to-peer 
+[4]: http://yacy.net 
+[5]: https://en.wikipedia.org/wiki/Distributed_search_engine 
+[6]: https://www.gnu.org/philosophy/free-sw.es.html 
+[7]: http://arguser.com.ar/2012/03/01/Buscador.html 
+[8]: https://es.wikipedia.org/wiki/Base_de_datos 
+[9]: https://es.wikipedia.org/wiki/Intranet 

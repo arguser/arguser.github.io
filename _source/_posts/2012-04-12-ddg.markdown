@@ -1,0 +1,57 @@
+---
+layout: post
+title: Duck Duck Go
+comments: true
+tags:
+- buscadores
+- privacidad
+---
+![DuckDuckGo](http://arguser.com.ar/images/ddghome.png)
+
+Ademas de un buscador que [no recauda ni comparte información personal
+de sus usuarios][1] (motivo por el cual es mencionado en el [articulo
+anterior][2]), una herramienta muy practica. [<acronym title="Duck Duck
+Go">DDG</acronym>][3] posee entre otras prestaciones:
+
+* Información sin clics: Al realizar una búsqueda [<acronym title="Duck
+  Duck Go">DDG</acronym>][3] recauda información de varias fuentes y te
+  las muestra al instante.
+  ![DuckDuckGo](http://arguser.com.ar/images/ddgsearch.png)
+* Resolución de cálculos, conversión de medidas y [más][4].
+  ![DuckDuckGo](http://arguser.com.ar/images/ddgcalc.png)
+  ![DuckDuckGo](http://arguser.com.ar/images/ddgconve.png)
+* [Sintaxis de búsqueda directa][5] que te permite realizar búsquedas
+  directamente en el sitio que quieras evitando que el mismo reciba
+  información en contexto con la búsqueda. La sintaxis esta conformada
+  por el signo de admiración ! (bang) seguido, sin espacios, por el
+  nombre del sitio donde queremos realizar la búsqueda (o su
+  abreviatura) !<sitio markdown="1"> y por ultimo, el termino de
+  búsqueda separado por un espacio. Ej: !<acronym title="Wikipedia
+  Español">wes</acronym> bach
+  ![DuckDuckGo](http://arguser.com.ar/images/ddgbang.png)
+  ![DuckDuckGo](http://arguser.com.ar/images/ddgbanged.png)
+  
+   Para aprovechar al máximo estas funciones hice de [<acronym
+  title="Duck Duck Go">DDG</acronym>][3] mi buscador por defecto
+  indicandole al [explorador web][6] que envie el contenido de la barra
+  de direcciones a [<acronym title="Duck Duck Go">DDG</acronym>][3],
+  evitando de esta manera tener que acceder al buscador para luego hacer
+  la consulta o ubicarme en la barra dedicada a busquedas. Agilizando
+  también el proceso.
+  
+   Lo que mencione anteriormente se realiza de esta manera:
+  
+  1.  Tipea "about:config" en la barra de direcciónes.
+  2.  Busca "keyword.url".
+  3.  Cambia su valor a "https://duckduckgo.com/?q=".
+  
+   </sitio>
+
+
+
+[1]: https://duckduckgo.com/privacy.html 
+[2]: http://arguser.com.ar/2012/03/01/Buscador.html 
+[3]: https://duckduckgo.com 
+[4]: https://duckduckgo.com/goodies.html 
+[5]: https://duckduckgo.com/bang.html 
+[6]: http://getfirefox.com 

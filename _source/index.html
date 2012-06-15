@@ -1,0 +1,12 @@
+---
+layout: default
+title: blog
+---
+<ul id="posts">
+{% for post in site.posts %}
+  <li>
+    {% include post_title.html %}
+    {% include post_meta.html %}
+  </li>
+{% endfor %}
+</ul>

@@ -1,0 +1,8 @@
+<nav>
+  <ul>
+    <li><a href="/" class="inactive">acerca</a></li>
+    <li><a href="/" {% if "/index.html" == page.url  %}class="active"{% endif %}>blog</a></li>
+    <li><a href="/links.html" {% if "/links.html" == page.url %}class="active"{% endif %}>enlaces</a></li>
+    <li><a href="/atom.xml" class="subscribe">feed</a></li>
+  </ul>
+</nav>

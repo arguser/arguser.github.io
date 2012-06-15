@@ -1,0 +1,63 @@
+---
+layout: post
+title: La importancia en el motor de búsqueda
+comments: true
+tags:
+- buscadores
+- privacidad
+- neutralidad
+---
+Se debería *tener en cuenta* a la hora de optar por un motor de búsqueda
+no solo la velocidad en que devuelve resultados (diferencia ahora casi
+imperceptible), ni la precisión de los mismos. Estas, en comparación a
+las siguientes características, no son importantes.
+
+A un buscador se le consulta a diario, **estas consultas día a día
+generan un perfil que describe tus intereses, preocupaciones,
+inclinaciones políticas, sexuales y lo que te puedas imaginar**.
+Proveedores de este tipo de servicio **recaudan toda tu información**
+bajo la excusa de que es para *mejorar la experiencia del usuario y la
+calidad del servicio*. Pero también para hacerte llegar publicidad
+pertinente, lo que te convierte en un producto ya que la publicidad de
+terceros te llega en base a tu perfil. Esto, por ejemplo, podría
+resultar en que esporádicamente se presenten publicidades que puedan
+poner en juego asuntos privados ante otras personas. Demás esta decir
+que al usar un servicio de búsqueda que *no respete nuestra privacidad*
+está esta ya comprometida y, **puede y va ser utilizada a fines de
+lucro**. A tener en cuenta se debería: [**privacidad**][1].
+
+Al generar consultas buscando por una respuesta, pienso que todos
+quieren cual les sea de utilidad y *por sobre todo* la fiel y sincera a
+la consulta realizada. Motores de búsqueda comerciales *permiten* que
+los **resultados se vean modificados por el dinero**, en forma de
+*promover* o *publicitar*, sitios aparecen por sobre otros. Otro caso es
+la [**censura**][2], la desconocemos si la hay pero puede haberla. Los
+resultados que recibimos vienen de bases de datos que crecen al ritmo de
+las agujas del reloj y estas son también controladas: como un sitio
+entra en la base de datos para luego presentárselos como resultado,
+puede también ser eliminado o excluido a una *lista negra* y permanecer
+lejos de nuestro alcance. En la actualidad podemos ver como **la
+libertad en Internet es continuamente amenazada**. Demás esta decir, de
+nuevo, que aunque rechazadas las propuestas, siempre y anteriormente a
+los tiempos de [**SOPA**][3], [**ACTA**][4] y similares; hubo algún tipo
+de represión, está, no siempre se percibe. Ante la duda, a tener en
+cuenta se debería: [**neutralidad**][5].
+
+Recapitulando, **privacidad** y **neutralidad** como grandes rasgos a
+tener de un buscador, no es mucho pedir y muy importante. Resta con
+*vencer la comodidad*, dejar de lado lo que venga por defecto en nuestro
+navegador y abrir los ojos en busca de alternativas que cubran estos
+requisitos. Por suerte, las alternativas están y, de estas profundizare
+más adelante. Por lo pronto les dejo mis dos predilectas: En cuanto a
+**privacidad** confió en que [Duck Duck Go][6] probará ser ademas útil
+y, en cuanto a **neutralidad** me asegura la existencia de [YaCy][7].
+
+
+
+[1]: https://es.wikipedia.org/wiki/Privacidad_en_Internet 
+[2]: https://es.wikipedia.org/wiki/Censura 
+[3]: https://es.wikipedia.org/wiki/SOPA 
+[4]: https://es.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement 
+[5]: https://es.wikipedia.org/wiki/Neutralidad_de_red 
+[6]: http://arguser.com.ar/2012/04/12/ddg.html 
+[7]: http://arguser.com.ar/2012/05/07/yacy.html 

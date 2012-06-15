@@ -1,0 +1,18 @@
+---
+layout: post
+title: Montar un Kindle
+comments: true
+tags:
+- kindle
+- gnu/linux
+---
+
+Si sos de esas personas que montan de forma manual sus unidades USB y tenes un Kindle (o cualquier eBook-Reader) puede que la siguiente linea te sirva:
+
+<div>
+  <pre><code class='bash'>mount -t vfat /dev/UNIDAD /media/CARPETA -o uid=USUARIO,gid=GRUPO,rw,utf8</code></pre>
+</div>
+
+
+Donde definimos el sistema de archivos, en el caso del Kindle: vfat, y las opciones que indican el usuario, grupo, modo (lectura-escritura) y la codificación de caracteres.
+Esta ultima es muy importante si utilizamos Calibre para administrar nuestros libros electrónicos, ya que en orden de comprender y mostrar los libros que se encuentran en nuestro dispositivo Calibre utiliza UTF-8 para decodificar los caracteres.

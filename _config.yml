@@ -1,0 +1,18 @@
+#safe:        true
+auto:        true
+server:      true
+
+source:      ./_source
+destination: ./_site
+plugins:     ./_plugins
+
+future:      true
+lsi:         false
+pygments:    true
+markdown:    rdiscount
+permalink:   date
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+BASE_PATH : false

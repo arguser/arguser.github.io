@@ -1,0 +1,6 @@
+<div class="meta">
+{% if post.tags.size > 0 %}
+# {{ post | tags }}
+{% endif %}
+<a class="comments" href="{{ post.url }}#disqus_thread">Comentarios</a>
+</div>

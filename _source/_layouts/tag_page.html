@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h2 class="tags">publicaciones ∩ {{ page.tag }}</h2>
+<ul class="postwtags">
+{% for post in page.posts %}
+<li>{% include post_title.html %}
+    {% include post_meta.html %}</li>
+{% endfor %}
+</ul>
+
+<h2 class="tags">otras etiquetas</h2>
+<div id="tag-cloud">
+  {{ site | tag_cloud }}
+</div>
