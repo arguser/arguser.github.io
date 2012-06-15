@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>ARGUSER</title>
+  <link href="http://arguser.com.ar/atom.xml" rel="self"/>
+  <link href="http://arguser.com.ar/"/>
+  <updated>2012-06-15T01:15:56-03:00</updated>
+  <id>http://arguser.com.ar/</id>
+  <author>
+    <name>José Pablo Leandro Martín</name>
+  </author>
+  
+  <entry>
+    <title>OpenHacks de Interactive Dynamics SRL</title>
+    <link href="http://arguser.com.ar"/>
+    <updated>2012-05-28T00:00:00-03:00</updated>
+    <id>http://arguser.com.ar/2012/05/28/openhacks</id>
+    <content type="html">&lt;p&gt;OpenHacks es un sitio de Rosario, provincia de Santa Fe, que se encarga
+de la importación, distribución y comercialización de productos
+tecnológicos, haciendo énfasis en &lt;a href=&quot;https://es.wikipedia.org/wiki/Open_source_hardware&quot;&gt;Open Source Hardware&lt;/a&gt; abreviado
+&lt;acronym title=&quot;Open Source
+Hardware&quot;&gt;OSH&lt;/acronym&gt;.&lt;br/&gt;
+ Me encontré con ellos buscando en el sitio de &lt;a href=&quot;http://arduino.cc/&quot;&gt;Arduino&lt;/a&gt; por
+distribuidores en Argentina, queriéndome asegurar de que al realizar la
+compra no reciba un clon Chino de este microcontrolador y así es que me
+dirigí a fuentes oficiales.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openhacks.png&quot; alt=&quot;OpenHacks&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A parte de &lt;a href=&quot;http://openhacks.com/&quot;&gt;OpenHacks&lt;/a&gt;, en nuestro país comercializan también &lt;a href=&quot;http://www.intekelectronica.com.ar/&quot;&gt;Intek
+Electrónica&lt;/a&gt; y &lt;a href=&quot;http://www.ditentec.com.ar/&quot;&gt;DitenTec&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;El distribuidor que se ubica en Rosario me ofrecía un mejor precio, pero
+me encontré con que los gastos de envío alcanzarían casi el 50% del
+producto que estaba intentando adquirir, en caso de que me lo haga
+llegar a departamento Colón, Provincia de Entre Ríos. Vale la pena
+mencionar que el servicio de envío es provisto por OCA.&lt;br/&gt;
+ Por suerte pude recurrir a una amiga que se encuentra estudiando en la
+ciudad de Rosario, una vez realizada la compra y en el transcurso del
+día en que el pago les fue acreditado pude organizar para hacer llegar
+el paquete a su domicilio y posteriormente recibirlo cuando nos
+encontremos.&lt;br/&gt;
+ Esto fue, el pasado fin de semana.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/arduinouno.png&quot; alt=&quot;Arduino UNO R3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En resumen, la experiencia con la gente de &lt;a href=&quot;http://openhacks.com/&quot;&gt;OpenHacks&lt;/a&gt; fue excelente,
+hubo buena disposición a la hora de acordar el domicilio de envío (que
+cambio en el transcurso del día), esto en conjunto de buena atención y
+comunicación. El paquete, como debe ser, venía con almohadillas de aire
+como protección y el &lt;a href=&quot;http://arduino.cc/&quot;&gt;Arduino&lt;/a&gt; autentico (hecho en Italia) llego en
+perfecto estado.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>YaCy</title>
+    <link href="http://arguser.com.ar"/>
+    <updated>2012-05-07T00:00:00-03:00</updated>
+    <id>http://arguser.com.ar/2012/05/07/yacy</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;/images/yacyhome.png&quot;&gt;&lt;img src=&quot;/images/yacyhome.png&quot; alt=&quot;YaCy&quot; /&gt;&lt;/a&gt; Hablamos de un
+&lt;a href=&quot;https://es.wikipedia.org/wiki/Motor_de_busqueda&quot;&gt;&lt;em&gt;motor de busqueda&lt;/em&gt;&lt;/a&gt; licenciado bajo &lt;a href=&quot;https://www.gnu.org/licenses/gpl-2.0.html&quot;&gt;&lt;strong&gt;GPLv2&lt;/strong&gt;&lt;/a&gt; que funciona de
+una forma que vale la pena destacar: Principalmente su infraestructura
+esta basada el protocolo &lt;acronym title=&quot;Peer to
+Peer&quot;&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Peer-to-peer&quot;&gt;P2P&lt;/a&gt;&lt;/acronym&gt; convirtiendo a &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; en un &lt;a href=&quot;https://en.wikipedia.org/wiki/Distributed_search_engine&quot;&gt;&lt;strong&gt;motor de
+búsqueda distribuido&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/networkview.png&quot;&gt;&lt;img src=&quot;/images/networkview.png&quot; alt=&quot;YaCy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Entonces, además del beneficio que conlleva ser &lt;a href=&quot;https://www.gnu.org/philosophy/free-sw.es.html&quot;&gt;&lt;strong&gt;Software Libre&lt;/strong&gt;&lt;/a&gt;
+y de contemplarse lo mencionado en &lt;a href=&quot;http://arguser.com.ar/2012/03/01/Buscador.html&quot;&gt;&lt;em&gt;la importancia en el motor de
+búsqueda&lt;/em&gt;&lt;/a&gt;, el estar su &lt;a href=&quot;https://es.wikipedia.org/wiki/Base_de_datos&quot;&gt;base de datos&lt;/a&gt; conforme por una &lt;a href=&quot;https://es.wikipedia.org/wiki/Peer-to-peer&quot;&gt;red
+distribuida&lt;/a&gt; de usuarios se hace prácticamente &lt;strong&gt;imposible la
+censura&lt;/strong&gt;, además de que los resultados &lt;strong&gt;no se verán promovidos por el
+dinero&lt;/strong&gt;, como sucede con la mayoría de los buscadores comerciales
+(Google, Bing, Yahoo).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/yacycen.png&quot; alt=&quot;buscadores comerciales&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Los usuarios de &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; pueden clasificarse en &lt;em&gt;pasivo&lt;/em&gt; o &lt;em&gt;activo&lt;/em&gt;\:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Un usuario &lt;em&gt;pasivo&lt;/em&gt; es aquel que puede generar consultas al buscador.&lt;/li&gt;
+&lt;li&gt;Un usuario &lt;em&gt;activo&lt;/em&gt; además de consultar al buscador, provee de
+resultados a la &lt;a href=&quot;https://es.wikipedia.org/wiki/Base_de_datos&quot;&gt;base de datos&lt;/a&gt; descentralizada.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Para ser un usuario &lt;em&gt;activo&lt;/em&gt; &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; viene equipado con herramientas
+que facilitan convertirse en contribuyente y de esta manera aumentar, a
+medida que aumentan los usuarios &lt;em&gt;activos&lt;/em&gt;, la escala del buscador. De
+todas formas, las calificaciones anteriormente mencionadas no hacen
+ninguna diferencia en cuanto al uso del servicio; no significan
+limitación o privilegio alguno.&lt;/p&gt;
+
+&lt;p&gt;Las búsquedas realizadas en &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; no son almacenadas y no es posible
+para los usuarios eliminar entradas del indice de resultados global,
+evitando de esta manera la censura.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/yacydes.png&quot; alt=&quot;buscador descentralizado&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otra de las aplicaciones que se le puede dar a &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; es su
+implementación como &lt;a href=&quot;https://es.wikipedia.org/wiki/Motor_de_busqueda&quot;&gt;&lt;em&gt;motor de busqueda&lt;/em&gt;&lt;/a&gt; en una &lt;a href=&quot;https://es.wikipedia.org/wiki/Intranet&quot;&gt;red interna&lt;/a&gt;,
+por ejemplo la red de una Universidad. O también como &lt;a href=&quot;https://es.wikipedia.org/wiki/Motor_de_busqueda&quot;&gt;&lt;em&gt;motor de
+busqueda&lt;/em&gt;&lt;/a&gt; de tus paginas webs, en vez de tercerizar como la mayoría
+utilizando Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/yacyconf.png&quot; alt=&quot;configuracion de yacy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt; es multi-plataforma y su instalación es poco complicada, si
+poseen una computadora de escritorio y la misma consta de acceso
+permanente a Internet pueden hacerse participes del buscador libre y
+publico como usuarios &lt;em&gt;activos&lt;/em&gt;. En caso de encontrase en otra
+situación, de utilizar una portátil, nunca esta de más tener &lt;a href=&quot;http://yacy.net&quot;&gt;YaCy&lt;/a&gt;
+para realizar algunas consultas a la web como usuario &lt;em&gt;pasivo&lt;/em&gt;, con la
+certeza de que su devolución es todo lo que hay para ofrecer, ni más ni
+menos.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Duck Duck Go</title>
+    <link href="http://arguser.com.ar"/>
+    <updated>2012-04-12T00:00:00-03:00</updated>
+    <id>http://arguser.com.ar/2012/04/12/ddg</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://arguser.com.ar/images/ddghome.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ademas de un buscador que &lt;a href=&quot;https://duckduckgo.com/privacy.html&quot;&gt;no recauda ni comparte información personal
+de sus usuarios&lt;/a&gt; (motivo por el cual es mencionado en el &lt;a href=&quot;http://arguser.com.ar/2012/03/01/Buscador.html&quot;&gt;articulo
+anterior&lt;/a&gt;), una herramienta muy practica. &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck Duck
+Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; posee entre otras prestaciones:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Información sin clics: Al realizar una búsqueda &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck
+Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; recauda información de varias fuentes y te
+las muestra al instante.
+&lt;img src=&quot;http://arguser.com.ar/images/ddgsearch.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;Resolución de cálculos, conversión de medidas y &lt;a href=&quot;https://duckduckgo.com/goodies.html&quot;&gt;más&lt;/a&gt;.
+&lt;img src=&quot;http://arguser.com.ar/images/ddgcalc.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
+&lt;img src=&quot;http://arguser.com.ar/images/ddgconve.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://duckduckgo.com/bang.html&quot;&gt;Sintaxis de búsqueda directa&lt;/a&gt; que te permite realizar búsquedas
+directamente en el sitio que quieras evitando que el mismo reciba
+información en contexto con la búsqueda. La sintaxis esta conformada
+por el signo de admiración ! (bang) seguido, sin espacios, por el
+nombre del sitio donde queremos realizar la búsqueda (o su
+abreviatura) !&lt;sitio markdown=&quot;1&quot;&gt; y por ultimo, el termino de
+búsqueda separado por un espacio. Ej: !&lt;acronym title=&quot;Wikipedia
+Español&quot;&gt;wes&lt;/acronym&gt; bach
+&lt;img src=&quot;http://arguser.com.ar/images/ddgbang.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
+&lt;img src=&quot;http://arguser.com.ar/images/ddgbanged.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; Para aprovechar al máximo estas funciones hice de &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym
+title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; mi buscador por defecto
+indicandole al &lt;a href=&quot;http://getfirefox.com&quot;&gt;explorador web&lt;/a&gt; que envie el contenido de la barra
+de direcciones a &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt;,
+evitando de esta manera tener que acceder al buscador para luego hacer
+la consulta o ubicarme en la barra dedicada a busquedas. Agilizando
+también el proceso.&lt;/p&gt;
+
+&lt;p&gt; Lo que mencione anteriormente se realiza de esta manera:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Tipea &quot;about:config&quot; en la barra de direcciónes.&lt;/li&gt;
+&lt;li&gt;Busca &quot;keyword.url&quot;.&lt;/li&gt;
+&lt;li&gt;Cambia su valor a &quot;https://duckduckgo.com/?q=&quot;.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt; &lt;/sitio&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>La importancia en el motor de búsqueda</title>
+    <link href="http://arguser.com.ar"/>
+    <updated>2012-03-01T00:00:00-03:00</updated>
+    <id>http://arguser.com.ar/2012/03/01/Buscador</id>
+    <content type="html">&lt;p&gt;Se debería &lt;em&gt;tener en cuenta&lt;/em&gt; a la hora de optar por un motor de búsqueda
+no solo la velocidad en que devuelve resultados (diferencia ahora casi
+imperceptible), ni la precisión de los mismos. Estas, en comparación a
+las siguientes características, no son importantes.&lt;/p&gt;
+
+&lt;p&gt;A un buscador se le consulta a diario, &lt;strong&gt;estas consultas día a día
+generan un perfil que describe tus intereses, preocupaciones,
+inclinaciones políticas, sexuales y lo que te puedas imaginar&lt;/strong&gt;.
+Proveedores de este tipo de servicio &lt;strong&gt;recaudan toda tu información&lt;/strong&gt;
+bajo la excusa de que es para &lt;em&gt;mejorar la experiencia del usuario y la
+calidad del servicio&lt;/em&gt;. Pero también para hacerte llegar publicidad
+pertinente, lo que te convierte en un producto ya que la publicidad de
+terceros te llega en base a tu perfil. Esto, por ejemplo, podría
+resultar en que esporádicamente se presenten publicidades que puedan
+poner en juego asuntos privados ante otras personas. Demás esta decir
+que al usar un servicio de búsqueda que &lt;em&gt;no respete nuestra privacidad&lt;/em&gt;
+está esta ya comprometida y, &lt;strong&gt;puede y va ser utilizada a fines de
+lucro&lt;/strong&gt;. A tener en cuenta se debería: &lt;a href=&quot;https://es.wikipedia.org/wiki/Privacidad_en_Internet&quot;&gt;&lt;strong&gt;privacidad&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Al generar consultas buscando por una respuesta, pienso que todos
+quieren cual les sea de utilidad y &lt;em&gt;por sobre todo&lt;/em&gt; la fiel y sincera a
+la consulta realizada. Motores de búsqueda comerciales &lt;em&gt;permiten&lt;/em&gt; que
+los &lt;strong&gt;resultados se vean modificados por el dinero&lt;/strong&gt;, en forma de
+&lt;em&gt;promover&lt;/em&gt; o &lt;em&gt;publicitar&lt;/em&gt;, sitios aparecen por sobre otros. Otro caso es
+la &lt;a href=&quot;https://es.wikipedia.org/wiki/Censura&quot;&gt;&lt;strong&gt;censura&lt;/strong&gt;&lt;/a&gt;, la desconocemos si la hay pero puede haberla. Los
+resultados que recibimos vienen de bases de datos que crecen al ritmo de
+las agujas del reloj y estas son también controladas: como un sitio
+entra en la base de datos para luego presentárselos como resultado,
+puede también ser eliminado o excluido a una &lt;em&gt;lista negra&lt;/em&gt; y permanecer
+lejos de nuestro alcance. En la actualidad podemos ver como &lt;strong&gt;la
+libertad en Internet es continuamente amenazada&lt;/strong&gt;. Demás esta decir, de
+nuevo, que aunque rechazadas las propuestas, siempre y anteriormente a
+los tiempos de &lt;a href=&quot;https://es.wikipedia.org/wiki/SOPA&quot;&gt;&lt;strong&gt;SOPA&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&quot;https://es.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement&quot;&gt;&lt;strong&gt;ACTA&lt;/strong&gt;&lt;/a&gt; y similares; hubo algún tipo
+de represión, está, no siempre se percibe. Ante la duda, a tener en
+cuenta se debería: &lt;a href=&quot;https://es.wikipedia.org/wiki/Neutralidad_de_red&quot;&gt;&lt;strong&gt;neutralidad&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Recapitulando, &lt;strong&gt;privacidad&lt;/strong&gt; y &lt;strong&gt;neutralidad&lt;/strong&gt; como grandes rasgos a
+tener de un buscador, no es mucho pedir y muy importante. Resta con
+&lt;em&gt;vencer la comodidad&lt;/em&gt;, dejar de lado lo que venga por defecto en nuestro
+navegador y abrir los ojos en busca de alternativas que cubran estos
+requisitos. Por suerte, las alternativas están y, de estas profundizare
+más adelante. Por lo pronto les dejo mis dos predilectas: En cuanto a
+&lt;strong&gt;privacidad&lt;/strong&gt; confió en que &lt;a href=&quot;http://arguser.com.ar/2012/04/12/ddg.html&quot;&gt;Duck Duck Go&lt;/a&gt; probará ser ademas útil
+y, en cuanto a &lt;strong&gt;neutralidad&lt;/strong&gt; me asegura la existencia de &lt;a href=&quot;http://arguser.com.ar/2012/05/07/yacy.html&quot;&gt;YaCy&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Antes de atravesar las puertas</title>
+    <link href="http://arguser.com.ar"/>
+    <updated>2012-02-23T00:00:00-03:00</updated>
+    <id>http://arguser.com.ar/2012/02/23/Puertas</id>
+    <content type="html">&lt;p&gt;Antes de leer: &lt;em&gt;Las puertas de la percepcion&lt;/em&gt; por &lt;strong&gt;Aldous Huxley&lt;/strong&gt;.
+Quisiera decir sin miedo lo que me parece que espera detrás. Comenzando
+por el estado normal y regulado de la mente de un ser humano:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;El Cerrojo: Nuestro sistema siempre, casi siempre, vuelve a su
+estado &quot;normal&quot;: Se auto-regula. El motivo principal y logico de
+este mecanismo es la supervivencia, se lo pueden explicar imaginando
+que en el momento en que bajan una escalera les sorprende una brisa,
+suave y calida acariciales el cuerpo. Sin numero de estimulos que no
+podrian evadir y seguramente causarian un placer que no se podria
+explicar, solo experimentar, se interprondian en el acto de ubicar
+correctamente el pie en el siguiente escalon. Por el contrario, gran
+parte de los estimulos son bloqueados para que la atencion se centre
+en NO dar un paso en falso.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La Llave: No necesariamente hay una unica llave. De diferentes
+tipos, procedencia y metodos de fabricación; magicamente hacen del
+otro lado de la puerta un destino completamente distinto: Paisajes
+caracteristicos, climas, texturas y sensaciones propias del destino
+que la llave promete. En la actualidad, de estas llaves hay muchas
+prohibidas, la magia nunca fue bienvenida desde el comienzo de la
+&quot;sociedad&quot; y de las existentes hay algunas que cierran la puerta
+detras tuyo, no dejandote salir y, por este u otro motivo se las
+prohibe. Aunque en realidad todos deberian, como en alguna epoca se
+supo, saber que la magia no es un juego y deben realizarse las
+experiencias con suma responsabilidad (y en secreto).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La Puerta: Sin duda, si la magia se puede realizar, esta existe y se
+conjura en el cerebro. Todo lo que percibimos y en concecuencia es y
+somos, para lo que nos rodea y nosotros mismos, se conjuga bajo las
+reglas del cerebro. Determina de forma alguna que, quien o como algo
+pasa por &quot;La Puerta&quot; y que o cual destino tiene la misma. Tienen
+hambre, la nececidad pasa rapidamente y busca ser satisfecha, no hay
+tiempo para escrutar en detalle la belleza del bolo alimenticio. Por
+ejemplo. No es el caso, si le facilitamos &quot;La Llave&quot; para que abra
+&quot;El Cerrojo&quot; y venga a encontrarnos al otro lado de &quot;La Puerta&quot;
+el mas minimo sentir que nos despierte la infinidad que nos rodea.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>El Autodidacta Extinto</title>
+    <link href="http://arguser.com.ar"/>
+    <updated>2012-02-10T00:00:00-03:00</updated>
+    <id>http://arguser.com.ar/2012/02/10/El-Autodidacta-Extinto</id>
+    <content type="html">&lt;p&gt;Era el día y la hora, las ultimas personas entraban al salón y una de ellas cerraba la puerta detrás suyo.
+Una vez ubicados en sus lugares, estaban listos para recibir de la manera mas clara posible su curso.&lt;/p&gt;
+
+&lt;p&gt;Décadas atrás se atendía a estos cursos a recibir conocimientos, en un principio recibían herramientas para procesar
+datos en crudo pero como ya saben, esto fue cambiando, ya que es muchísimo mas fácil recibir conocimiento ya procesado.&lt;/p&gt;
+
+&lt;p&gt;Se sabe inclusive, que mucho antes de los cursos de aprendizaje se encontraba ya en extinción el grupo, siempre pequeño,
+de al los que se refería como autodidactas.&lt;/p&gt;
+
+&lt;p&gt;En el presente, simplemente se les apunta una dirección.
+Y ellos la siguen.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Montar un Kindle</title>
+    <link href="http://arguser.com.ar"/>
+    <updated>2012-02-09T00:00:00-03:00</updated>
+    <id>http://arguser.com.ar/2012/02/09/Kindle</id>
+    <content type="html">&lt;p&gt;Si sos de esas personas que montan de forma manual sus unidades USB y tenes un Kindle (o cualquier eBook-Reader) puede que la siguiente linea te sirva:&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class='bash'&gt;mount -t vfat /dev/UNIDAD /media/CARPETA -o uid=USUARIO,gid=GRUPO,rw,utf8&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Donde definimos el sistema de archivos, en el caso del Kindle: vfat, y las opciones que indican el usuario, grupo, modo (lectura-escritura) y la codificación de caracteres.
+Esta ultima es muy importante si utilizamos Calibre para administrar nuestros libros electrónicos, ya que en orden de comprender y mostrar los libros que se encuentran en nuestro dispositivo Calibre utiliza UTF-8 para decodificar los caracteres.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
