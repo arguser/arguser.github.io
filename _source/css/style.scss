@@ -1,0 +1,262 @@
+---
+---
+/*Site Font-Face*/
+@font-face {
+  font-family: inconsolata;
+  src: url("/font/Inconsolata.otf"); }
+
+/*Color Variables*/
+$color-red: #DE4314;
+$color-blue: #6D9EAB;
+$color-black: #202020;
+$color-gray: #CCCCCC;
+$color-white: #FFFFFF;
+
+/*Size Variables*/
+$main-width: 600px;
+$nav-items: 4;
+
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  overflow: -moz-scrollbars-vertical;
+  overflow-y: scroll;
+  height: 100%; }
+
+body {
+  height: 100%;
+  font-family: inconsolata;
+  background: $color-white;
+  #main {
+    width: $main-width;
+    margin: auto;
+    ul {
+      &#posts li, &.postwtags li {
+        list-style-type: none;
+        height: 3em;
+        padding: 1em 0 1em;
+        margin-top: 2em;
+        margin-bottom: 2em; } }
+    header#page-title {
+      display: block;
+      text-align: center;
+      text-transform: uppercase;
+      padding-top: 1em;
+      padding-bottom: 2em;
+      a {
+        color: $color-red;
+        &:visited {
+          color: $color-red; }
+        &:hover, &:active {
+          color: $color-gray; }
+        &:visited {
+          &:hover, &:active {
+            color: $color-gray; } } } }
+    nav {
+      z-index: 9 !important;
+      ul {
+        height: 3em;
+        white-space: nowrap;
+        margin: 0;
+        margin-bottom: 2em;
+        padding: 0;
+        li {
+          width: $main-width / $nav-items;
+          /* border-top: 1px solid #ccc;*/
+          /* border-bottom: 1px solid #ccc; */
+          display: inline;
+          float: left;
+          position: relative;
+          border-top: 1px solid $color-gray;
+          border-bottom: 1px solid $color-gray;
+          list-style: none;
+          a {
+            display: block;
+            font-size: 20px;
+            line-height: 45px;
+            text-align: center;
+            text-transform: uppercase;
+            &:hover, &:active {
+              background: $color-blue;
+              color: $color-white !important; }
+            &.subscribe {
+              color: $color-red;
+              &:hover, &:active {
+                background: $color-red; } }
+            &.active {
+              color: $color-blue; }
+            &.inactive {
+              text-decoration: line-through; } } } } }
+    article {
+      header {
+        height: 3em;
+        padding: 1em 0 1em;
+        margin-top: 2em;
+        margin-bottom: 2em; }
+      a {
+        &.prev, &.next {
+          margin-top: -40px;
+          float: right;
+          display: inline;
+          position: relative; }
+        &.prev img, &.next img {
+          border: none;
+          width: 32px;
+          height: 32px;
+          padding: 10px;
+          margin-top: 1em;
+          margin-bottom: 1em; }
+        &.prev:hover, &.next:hover {
+          border-bottom: 1px dashed; }
+        &.prev:active, &.next:active {
+          border-bottom: 1px solid; } }
+      section {
+        line-height: 1.6em;
+        p {
+          padding-top: 1em;
+          padding-bottom: 1em;
+          a {
+            color: $color-blue;
+            &:visited {
+              color: $color-blue; } } }
+        ol {
+          img {
+            margin-left: -3em; }
+          li {
+            margin-left: 2em;
+            padding: 0.5em; } }
+        ul {
+          img {
+            margin-left: -3em; }
+          li {
+            list-style-type: square;
+            margin-left: 2em;
+            padding: 0.5em; } }
+        pre {
+          border-radius: 3px;
+          border: 1px dashed $color-red;
+          padding: 1em;
+          margin-top: 1em;
+          margin-bottom: 1em; }
+        img {
+          border-radius: 3px;
+          border: 1px dashed $color-gray;
+          margin-top: 0.5em;
+          margin-bottom: 0.5em;
+          padding: 10px;
+          width: 580px; } } }
+    time {
+      float: left;
+      padding: 0 1em 0 1em;
+      font-size: 16px;
+      span {
+        display: block;
+        text-align: center;
+        color: $color-blue;
+        margin: 0;
+        padding: 0 auto;
+        &.day {
+          font-size: 1.4em;
+          line-height: 0.8em; }
+        &.month {
+          font-size: 1em; }
+        &.year {
+          font-size: 0.8em; } } }
+    .post-title {
+      text-align: left;
+      font-size: 16px;
+      padding-top: 0.3em;
+      padding-bottom: 0.3em;
+      margin: 0; }
+    #tag-cloud {
+      border: 1px dashed #ccc;
+      border-radius: 3px;
+      padding: 1em;
+      margin-bottom: 4em; }
+    #links {
+      height: 580px;
+      padding-top: 1em;
+      padding-bottom: 6em;
+      a {
+        display: block;
+        float: left;
+        height: 60px;
+        width: 60px; } } }
+  footer {
+    display: inline;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: $color-gray;
+    background-color: $color-black;
+    p {
+      display: inline;
+      line-height: 32px;
+      font-size: 14px;
+      a {
+        color: $color-red;
+        &:visited {
+          color: $color-red; }
+        &:hover, &:active {
+          color: $color-blue; }
+        &:visited {
+          &:hover, &:active {
+            color: $color-blue; } } }
+      &.left {
+        text-align: left;
+        float: left;
+        padding-left: 16px; }
+      &.right {
+        text-align: right;
+        float: right;
+        padding-right: 16px; } }
+    img {
+      position: absolute;
+      &.left {
+        left: 0; }
+      &.right {
+        right: 0; }
+      &.bottoml {
+        bottom: 0;
+        left: 0; }
+      &.bottomr {
+        bottom: 0;
+        right: 0; } } }
+
+a {
+  color: #666;
+  text-decoration: none;
+  outline: 0;
+  &:visited {
+    color: #666;
+    text-decoration: none;
+    outline: 0; }
+  &:hover, &:active {
+    -moz-transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -o-transition: 0.6s;
+    color: $color-red; }
+  &:visited {
+    &:hover, &:active {
+      -moz-transition: 0.6s;
+      -webkit-transition: 0.6s;
+      -o-transition: 0.6s;
+      color: $color-red; } } }
+
+.tags {
+  font-size: 1.8em;
+  color: $color-black;
+  text-align: center;
+  padding-bottom: 1.5em; }
+
+.meta {
+  display: inline;
+  text-transform: lowercase;
+  padding-bottom: 0.5em;
+  .comments {
+    padding-right: 1em;
+    float: right; } }
+  }
