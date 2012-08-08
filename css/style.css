@@ -98,6 +98,7 @@ body {
     body #main article a.prev:active, body #main article a.next:active {
       border-bottom: 1px solid; }
     body #main article section {
+      text-align: justify;
       line-height: 1.6em; }
       body #main article section p {
         padding-top: 1em;
