@@ -7,7 +7,6 @@
     <meta name="description" content="Blog Personal" />
     <link href="/css/style.css" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="http://arguser.com.ar/favicon.ico" />
-    <link REL="stylesheet" href="http://arguser.com.ar/css/lightbox.css" type="text/css" media="screen" />
 </head>
 <body>
   <div id="main" >
@@ -15,7 +14,6 @@
   <h1><a href="/">arguser</a></h1>
 </header>
 
-    
     <nav>
   <ul>
     <li><a href="/" class="inactive">acerca</a></li>
@@ -28,7 +26,7 @@
     <h2 class="tags">publicaciones ∩ neutralidad</h2>
 <ul class="postwtags">
 
-<li><time datetime="2012-05-07 00:00:00 -0300">
+<li><time>
     <span class="day">07</span>
     <span class="month">May</span>
     <span class="year">2012</span>
@@ -43,7 +41,7 @@
 </div>
 </li>
 
-<li><time datetime="2012-03-01 00:00:00 -0300">
+<li><time>
     <span class="day">01</span>
     <span class="month">Mar</span>
     <span class="year">2012</span>
@@ -62,15 +60,15 @@
 
 <h2 class="tags">otras etiquetas</h2>
 <div id="tag-cloud">
-  <a href="/tag/buscadores.html" class="set-5">buscadores</a> <a href="/tag/electr%C3%B3nica.html" class="set-1">electrónica</a> <a href="/tag/escrito.html" class="set-1">escrito</a> <a href="/tag/experiencia.html" class="set-1">experiencia</a> <a href="/tag/gnu%2Flinux.html" class="set-1">gnu/linux</a> <a href="/tag/kindle.html" class="set-1">kindle</a> <a href="/tag/neutralidad.html" class="set-3">neutralidad</a> <a href="/tag/open%20hardware.html" class="set-1">open hardware</a> <a href="/tag/opini%C3%B3n.html" class="set-1">opinión</a> <a href="/tag/privacidad.html" class="set-3">privacidad</a> <a href="/tag/software%20libre.html" class="set-1">software libre</a>
+  <a href="/tag/buscadores.html" class="set-5">buscadores</a> <a href="/tag/electr%C3%B3nica.html" class="set-1">electrónica</a> <a href="/tag/escrito.html" class="set-1">escrito</a> <a href="/tag/experiencia.html" class="set-1">experiencia</a> <a href="/tag/gnu%2Flinux.html" class="set-1">gnu/linux</a> <a href="/tag/kindle.html" class="set-1">kindle</a> <a href="/tag/neutralidad.html" class="set-3">neutralidad</a> <a href="/tag/open%20hardware.html" class="set-1">open hardware</a> <a href="/tag/opini%C3%B3n.html" class="set-1">opinión</a> <a href="/tag/privacidad.html" class="set-5">privacidad</a> <a href="/tag/seguridad.html" class="set-1">seguridad</a> <a href="/tag/software%20libre.html" class="set-1">software libre</a>
 </div>
 
   </div>
   <footer>
-  <img class="bottoml" src="/faviconmb.ico" />
-  <img class="left" src="/favicon.ico" />
-  <img class="right" src="/faviconm.ico" />
-  <img class="bottomr" src="/faviconma.ico" />
+  <img alt="favicon" class="bottoml" src="/faviconmb.ico" />
+  <img alt="favicon" class="left" src="/favicon.ico" />
+  <img alt="favicon" class="right" src="/faviconm.ico" />
+  <img alt="favicon" class="bottomr" src="/faviconma.ico" />
   <p class="left">Blog Personal de <a href="http://arguser.com.ar">José Pablo Leandro Martín</a> Licenciado bajo <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></p>
   <p class="right">Hosteado en <a href="http://pages.github.com">Github Pages</a> | Construido con <a href="http://jekyllrb.com">Jekyll</a></p>
 </footer>
@@ -91,19 +89,5 @@
       <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script>
       <script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script>
   <![endif]-->
-  <script src="http://arguser.com.ar/js/rainbowvis.js"></script>
-  <script type="text/javascript">
-  var divlink = document.getElementById('links');
-  var link = divlink.getElementsByTagName('a');
-
-  var rainbow = new Rainbow();
-  rainbow.setSpectrum('FFFFFF', '6D9EAB', 'DE4314', '000000');
-  rainbow.setNumberRange(0, link.length - 1);
-
-  for (var i = 0; i < link.length; i++) {
-          var style = 'background-color:#' + rainbow.colourAt(i) + ';';
-          link[i].setAttribute('style', style);
-  }
-  </script>
 </body>
 </html>

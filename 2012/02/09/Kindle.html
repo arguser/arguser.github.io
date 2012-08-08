@@ -7,7 +7,6 @@
     <meta name="description" content="Blog Personal" />
     <link href="/css/style.css" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="http://arguser.com.ar/favicon.ico" />
-    <link REL="stylesheet" href="http://arguser.com.ar/css/lightbox.css" type="text/css" media="screen" />
 </head>
 <body>
   <div id="main" >
@@ -15,7 +14,6 @@
   <h1><a href="/">arguser</a></h1>
 </header>
 
-    
     <nav>
   <ul>
     <li><a href="/" class="inactive">acerca</a></li>
@@ -28,7 +26,7 @@
     
 <article>
     <header>
-      <time datetime="2012-02-09 00:00:00 -0300">
+      <time>
     <span class="day">09</span>
     <span class="month">Feb</span>
     <span class="year">2012</span>
@@ -49,14 +47,14 @@
 
     </header>
 <section>
- <p>Si sos de esas personas que montan de forma manual sus unidades USB y tenes un Kindle (o cualquier eBook-Reader) puede que la siguiente linea te sirva:</p>
+ <p>Si sos de esas personas que montan de forma manual sus unidades USB y tenes un <em>Kindle</em> (o cualquier eBook-Reader) puede que la siguiente linea te sirva:</p>
 
 <div>
   <pre><code class='bash'>mount -t vfat /dev/UNIDAD /media/CARPETA -o uid=USUARIO,gid=GRUPO,rw,utf8</code></pre>
 </div>
 
 
-<p>Donde definimos el sistema de archivos, en el caso del Kindle: vfat, y las opciones que indican el usuario, grupo, modo (lectura-escritura) y la codificación de caracteres.
+<p>Donde definimos el sistema de archivos, en el caso del <em>Kindle</em>: vfat, y las opciones que indican el usuario, grupo, modo (lectura-escritura) y la codificación de caracteres.
 Esta ultima es muy importante si utilizamos Calibre para administrar nuestros libros electrónicos, ya que en orden de comprender y mostrar los libros que se encuentran en nuestro dispositivo Calibre utiliza UTF-8 para decodificar los caracteres.</p>
 
 </section>
@@ -82,10 +80,10 @@ Esta ultima es muy importante si utilizamos Calibre para administrar nuestros li
 
   </div>
   <footer>
-  <img class="bottoml" src="/faviconmb.ico" />
-  <img class="left" src="/favicon.ico" />
-  <img class="right" src="/faviconm.ico" />
-  <img class="bottomr" src="/faviconma.ico" />
+  <img alt="favicon" class="bottoml" src="/faviconmb.ico" />
+  <img alt="favicon" class="left" src="/favicon.ico" />
+  <img alt="favicon" class="right" src="/faviconm.ico" />
+  <img alt="favicon" class="bottomr" src="/faviconma.ico" />
   <p class="left">Blog Personal de <a href="http://arguser.com.ar">José Pablo Leandro Martín</a> Licenciado bajo <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></p>
   <p class="right">Hosteado en <a href="http://pages.github.com">Github Pages</a> | Construido con <a href="http://jekyllrb.com">Jekyll</a></p>
 </footer>
@@ -106,19 +104,5 @@ Esta ultima es muy importante si utilizamos Calibre para administrar nuestros li
       <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script>
       <script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script>
   <![endif]-->
-  <script src="http://arguser.com.ar/js/rainbowvis.js"></script>
-  <script type="text/javascript">
-  var divlink = document.getElementById('links');
-  var link = divlink.getElementsByTagName('a');
-
-  var rainbow = new Rainbow();
-  rainbow.setSpectrum('FFFFFF', '6D9EAB', 'DE4314', '000000');
-  rainbow.setNumberRange(0, link.length - 1);
-
-  for (var i = 0; i < link.length; i++) {
-          var style = 'background-color:#' + rainbow.colourAt(i) + ';';
-          link[i].setAttribute('style', style);
-  }
-  </script>
 </body>
 </html>

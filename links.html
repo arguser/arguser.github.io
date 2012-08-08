@@ -7,7 +7,6 @@
     <meta name="description" content="Blog Personal" />
     <link href="/css/style.css" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="http://arguser.com.ar/favicon.ico" />
-    <link REL="stylesheet" href="http://arguser.com.ar/css/lightbox.css" type="text/css" media="screen" />
 </head>
 <body>
   <div id="main" >
@@ -15,7 +14,6 @@
   <h1><a href="/">arguser</a></h1>
 </header>
 
-    
     <nav>
   <ul>
     <li><a href="/" class="inactive">acerca</a></li>
@@ -34,17 +32,33 @@
 <a href="http://owncloud.org/"></a> <a href="https://www.apache.org/"></a> <a href="https://duckduckgo.com/"></a> <a href="http://yacy.net/"></a> <a href="https://joindiaspora.com/"></a> <a href="https://github.com/arguser/"></a> <a href="http://www.massiveattack.com/"></a> <a href="http://sourceforge.net/"></a> <a href="http://puredata.info/"></a> <a href="http://libre.fm/user-profile.php?user=arguser"></a>
 <a href="https://twitter.com/#!/arguser"></a> <a href="http://www.portishead.co.uk/"></a> <a href="http://flipmu.com/"></a> <a href="http://www.manuchao.net/"></a> <a href="https://altoguiso.wordpress.com/"></a> <a href="http://mozilla.com/"></a> <a href="https://www.eff.org/"></a> <a href="https://www.gnu.org/software/octave/"></a> <a href="http://arguser.com.ar/"></a> <a href="https://joindiaspora.com/people/4d169c1e2c17437f13000271"></a>
 <a href="http://www.sohappy.no/"></a> <a href="http://haml-lang.com/"></a> <a href="http://theknife.net/"></a> <a href="http://xkcd.com/"></a> <a href="http://mightyohm.com/"></a> <a href="http://www.fuzzywobble.com/"></a> <a href="http://www.xmonad.org/"></a> <a href="http://learnyouahaskell.com/"></a> <a href="http://mitpress.mit.edu/sicp/"></a> <a href="http://noteslate.com/"></a>
-<a href="http://nin.com/"></a> <a href="http://www.greenteapress.com/thinkpython/thinkpython.html"></a> <a href="http://www.theblackkeys.com/"></a> <a href="http://www.cinematicorchestra.com/"></a> <a href="http://www.latex-project.org/"></a> <a href="http://maxima.sourceforge.net/"></a> <a href="http://www.humblebundle.com/"></a> <a href="http://riseup.net/"></a> <a href="http://retroshare.sourceforge.net/"></a>
-<a href="http://openbadges.org/"></a> <a href="http://p2pu.org/"></a> <a href="http://geogebra.org/"></a> <a href="http://hackaday.com/"></a> <a href="http://jamendo.com/"></a> <a href="http://blender.org/"></a> <a href="https://crypto.cat/"></a> <a href="http://keepass.info/"></a> <a href="http://offlineimap.org/"></a> <a href="http://theoatmeal.com/"></a></p>
+<a href="http://nin.com/"></a> <a href="http://www.greenteapress.com/thinkpython/thinkpython.html"></a> <a href="http://www.theblackkeys.com/"></a> <a href="http://www.cinematicorchestra.com/"></a> <a href="http://www.latex-project.org/"></a> <a href="http://maxima.sourceforge.net/"></a> <a href="http://www.humblebundle.com/"></a> <a href="http://riseup.net/"></a> <a href="http://retroshare.sourceforge.net/"></a> <a href="http://openbadges.org/"></a>
+<a href="http://p2pu.org/"></a> <a href="http://geogebra.org/"></a> <a href="http://hackaday.com/"></a> <a href="http://jamendo.com/"></a> <a href="http://blender.org/"></a> <a href="https://crypto.cat/"></a> <a href="http://keepass.info/"></a> <a href="http://offlineimap.org/"></a> <a href="http://theoatmeal.com/"></a> <a href="http://unhosted.org/"></a>
+<a href="http://libredocs.org/"></a> <a href="http://thingiverse.com/"></a> <a href="http://www.mutable-instruments.net/"></a> <a href="http://www.gnu.org/software/emacs/"></a> <a href="http://www.publicknowledge.org/"></a> <a href="http://okfn.org/"></a> <a href="http://datadrivenjournalism.net/"></a> <a href="http://thepowerofopen.org/"></a> <a href="http://tos-dr.info/"></a>
+<a href="http://opsound.org/"></a> <a href="http://www.dataportability.org/"></a></p>
 
 </div>
+<script src="http://arguser.com.ar/js/rainbowvis.js"></script>
+<script type="text/javascript">
+  var divlink = document.getElementById('links');
+  var link = divlink.getElementsByTagName('a');
+
+  var rainbow = new Rainbow();
+  rainbow.setSpectrum('FFFFFF', '6D9EAB', 'DE4314', '000000');
+  rainbow.setNumberRange(0, link.length - 1);
+
+  for (var i = 0; i < link.length; i++) {
+          var style = 'background-color:#' + rainbow.colourAt(i) + ';';
+          link[i].setAttribute('style', style);
+  }
+</script>
 
   </div>
   <footer>
-  <img class="bottoml" src="/faviconmb.ico" />
-  <img class="left" src="/favicon.ico" />
-  <img class="right" src="/faviconm.ico" />
-  <img class="bottomr" src="/faviconma.ico" />
+  <img alt="favicon" class="bottoml" src="/faviconmb.ico" />
+  <img alt="favicon" class="left" src="/favicon.ico" />
+  <img alt="favicon" class="right" src="/faviconm.ico" />
+  <img alt="favicon" class="bottomr" src="/faviconma.ico" />
   <p class="left">Blog Personal de <a href="http://arguser.com.ar">José Pablo Leandro Martín</a> Licenciado bajo <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></p>
   <p class="right">Hosteado en <a href="http://pages.github.com">Github Pages</a> | Construido con <a href="http://jekyllrb.com">Jekyll</a></p>
 </footer>
@@ -65,19 +79,5 @@
       <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script>
       <script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script>
   <![endif]-->
-  <script src="http://arguser.com.ar/js/rainbowvis.js"></script>
-  <script type="text/javascript">
-  var divlink = document.getElementById('links');
-  var link = divlink.getElementsByTagName('a');
-
-  var rainbow = new Rainbow();
-  rainbow.setSpectrum('FFFFFF', '6D9EAB', 'DE4314', '000000');
-  rainbow.setNumberRange(0, link.length - 1);
-
-  for (var i = 0; i < link.length; i++) {
-          var style = 'background-color:#' + rainbow.colourAt(i) + ';';
-          link[i].setAttribute('style', style);
-  }
-  </script>
 </body>
 </html>

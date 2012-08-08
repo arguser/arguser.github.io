@@ -4,47 +4,75 @@
   <title>ARGUSER</title>
   <link href="http://arguser.com.ar/atom.xml" rel="self"/>
   <link href="http://arguser.com.ar/"/>
-  <updated>2012-06-15T01:15:56-03:00</updated>
+  <updated>2012-08-07T22:02:54-03:00</updated>
   <id>http://arguser.com.ar/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
   </author>
   
   <entry>
+    <title>No sabemos lo que tenemos hasta que...</title>
+    <link href="http://arguser.com.ar"/>
+    <updated>2012-08-12T00:00:00-03:00</updated>
+    <id>http://arguser.com.ar/2012/08/12/cifrado-de-disco</id>
+    <content type="html">&lt;p&gt;En la actualidad somos muchos quienes poseemos &lt;em&gt;dispositivos digitales&lt;/em&gt; y con ellos nos movemos la mayor parte del día, llevando de un lado a otro una cantidad considerable de &lt;strong&gt;información sensible&lt;/strong&gt;, la cual en malas manos &lt;strong&gt;puede hacer mucho daño&lt;/strong&gt;. Y esto, creo, debe tenerse en cuenta.&lt;br/&gt;
+En los pasados 10 años hubo una &lt;em&gt;transicion&lt;/em&gt; abrupta y de repente tecnología donde podemos almacenar &lt;strong&gt;grandes cantidades de información&lt;/strong&gt;, utilizar para trabajar y comunicarnos se volvió accesible y transportable, pudiéndose llevar en un bolso, mochila, maletín e inclusive en el bolsillo del pantalón. El problema en esta &lt;em&gt;transicion&lt;/em&gt; es que &lt;strong&gt;no fue acompañada con la adopción de medidas de seguridad que merece y mucho menos educación respecto al valor de la información&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Imaginen&lt;/em&gt; que pierden el celular, roban o secuestran la notebook y principalmente imaginen &lt;strong&gt;las consecuencias, más allá de la perdida material&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Usuario y contraseña: Desde perfiles de redes sociales, cuentas de email y servicios de mensajería instantánea hasta información bancaria.&lt;/li&gt;
+&lt;li&gt;Fotografías personales: Repletas de información, las imágenes pueden decir mucho más de lo que pensamos, ubicaciones, costumbres y personas.&lt;/li&gt;
+&lt;li&gt;Calendario, Tareas, Notas: Dicen qué, cuando y donde vas estar haciendo.&lt;/li&gt;
+&lt;li&gt;Logs de conversaciones: Ya sea online o en disco, los logs ofrecen todo tipo de información y revelan el tipo de relación que tenes con terceros.&lt;/li&gt;
+&lt;li&gt;Información de terceros, amigos o familiares: A parte o en conjunto con la información mencionada arriba, que no protejamos nuestra información puede afectar a otras personas.&lt;/li&gt;
+&lt;li&gt;Muchas cosas más.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Por esta &lt;em&gt;información&lt;/em&gt;, por la &lt;em&gt;privacidad&lt;/em&gt; y &lt;em&gt;seguridad&lt;/em&gt; quiero fomentar en esta publicación la utilización de &lt;strong&gt;sistemas de cifrado completo de disco&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Existe una &lt;em&gt;gran&lt;/em&gt; cantidad de &lt;a href=&quot;https://en.wikipedia.org/wiki/Comparison_of_disk_encryption_software&quot;&gt;software de cifrado de disco&lt;/a&gt;, cuando decidan cual se ajusta mejor a sus necesidades no existen muchas complicaciones, una vez instalado, configurado y puesto en marcha funcionan (en su mayoría) en segundo plano, &lt;strong&gt;siendo practicamente invisible para el usuario pero manteniendo la información segura&lt;/strong&gt;. También vale la pena destacar que no se siente perdida de performance, así que es hora de evaluar que es más importante, unas horas en investigación, instalación y configuración o... Bueno, &lt;em&gt;imagínense&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Si necesitan mayor incentivo pueden leer la &lt;a href=&quot;https://www.eff.org/deeplinks/2011/12/newyears-resolution-full-disk-encryption-every-computer-you-own&quot;&gt;publicación&lt;/a&gt; de la &lt;a href=&quot;https://eff.org/&quot;&gt;EFF&lt;/a&gt; donde también se propone adoptar esta sana actitud con respecto a nuestros dispositivos digitales y enlaza a un &lt;a href=&quot;https://www.eff.org/document/defending-privacy-us-border-guide-travelers-carrying-digital-devices&quot;&gt;paper&lt;/a&gt; sobre como pueden los viajeros defender su privacidad en la aduana estado unidense. Si bien nosotros Argentinos no tenemos ese problema por el momento, existen la inseguridad en la calle y quizás algunas maniobras del gobierno de las que es mejor prevenirse.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>OpenHacks de Interactive Dynamics SRL</title>
     <link href="http://arguser.com.ar"/>
     <updated>2012-05-28T00:00:00-03:00</updated>
     <id>http://arguser.com.ar/2012/05/28/openhacks</id>
-    <content type="html">&lt;p&gt;OpenHacks es un sitio de Rosario, provincia de Santa Fe, que se encarga
+    <content type="html">&lt;p&gt;&lt;em&gt;OpenHacks&lt;/em&gt; es un sitio de Rosario, provincia de Santa Fe, que se encarga
 de la importación, distribución y comercialización de productos
 tecnológicos, haciendo énfasis en &lt;a href=&quot;https://es.wikipedia.org/wiki/Open_source_hardware&quot;&gt;Open Source Hardware&lt;/a&gt; abreviado
 &lt;acronym title=&quot;Open Source
 Hardware&quot;&gt;OSH&lt;/acronym&gt;.&lt;br/&gt;
- Me encontré con ellos buscando en el sitio de &lt;a href=&quot;http://arduino.cc/&quot;&gt;Arduino&lt;/a&gt; por
+Me encontré con ellos buscando en el sitio de &lt;a href=&quot;http://arduino.cc/&quot;&gt;Arduino&lt;/a&gt; por
 distribuidores en Argentina, queriéndome asegurar de que al realizar la
 compra no reciba un clon Chino de este microcontrolador y así es que me
 dirigí a fuentes oficiales.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/openhacks.png&quot; alt=&quot;OpenHacks&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A parte de &lt;a href=&quot;http://openhacks.com/&quot;&gt;OpenHacks&lt;/a&gt;, en nuestro país comercializan también &lt;a href=&quot;http://www.intekelectronica.com.ar/&quot;&gt;Intek
-Electrónica&lt;/a&gt; y &lt;a href=&quot;http://www.ditentec.com.ar/&quot;&gt;DitenTec&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A parte de &lt;a href=&quot;http://openhacks.com/&quot;&gt;&lt;em&gt;OpenHacks&lt;/em&gt;&lt;/a&gt;, en nuestro país comercializan también &lt;a href=&quot;http://www.intekelectronica.com.ar/&quot;&gt;&lt;em&gt;Intek
+Electrónica&lt;/em&gt;&lt;/a&gt; y &lt;a href=&quot;http://www.ditentec.com.ar/&quot;&gt;&lt;em&gt;DitenTec&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;El distribuidor que se ubica en Rosario me ofrecía un mejor precio, pero
-me encontré con que los gastos de envío alcanzarían casi el 50% del
-producto que estaba intentando adquirir, en caso de que me lo haga
+me encontré con que &lt;strong&gt;los gastos de envío alcanzarían casi el 50% del
+producto&lt;/strong&gt; que estaba intentando adquirir, en caso de que me lo haga
 llegar a departamento Colón, Provincia de Entre Ríos. Vale la pena
 mencionar que el servicio de envío es provisto por OCA.&lt;br/&gt;
- Por suerte pude recurrir a una amiga que se encuentra estudiando en la
+Por suerte pude recurrir a una amiga que se encuentra estudiando en la
 ciudad de Rosario, una vez realizada la compra y en el transcurso del
 día en que el pago les fue acreditado pude organizar para hacer llegar
 el paquete a su domicilio y posteriormente recibirlo cuando nos
 encontremos.&lt;br/&gt;
- Esto fue, el pasado fin de semana.&lt;/p&gt;
+Esto fue, el pasado fin de semana.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/arduinouno.png&quot; alt=&quot;Arduino UNO R3&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;En resumen, la experiencia con la gente de &lt;a href=&quot;http://openhacks.com/&quot;&gt;OpenHacks&lt;/a&gt; fue excelente,
+&lt;p&gt;En resumen, la experiencia con la gente de &lt;a href=&quot;http://openhacks.com/&quot;&gt;&lt;em&gt;OpenHacks&lt;/em&gt;&lt;/a&gt; fue excelente,
 hubo buena disposición a la hora de acordar el domicilio de envío (que
 cambio en el transcurso del día), esto en conjunto de buena atención y
 comunicación. El paquete, como debe ser, venía con almohadillas de aire
@@ -131,11 +159,11 @@ anterior&lt;/a&gt;), una herramienta muy practica. &lt;a href=&quot;https://duck
 Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; posee entre otras prestaciones:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Información sin clics: Al realizar una búsqueda &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck
+&lt;li&gt;&lt;em&gt;Información sin clics&lt;/em&gt;: Al realizar una búsqueda &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck
 Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; recauda información de varias fuentes y te
 las muestra al instante.
 &lt;img src=&quot;http://arguser.com.ar/images/ddgsearch.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
-&lt;li&gt;Resolución de cálculos, conversión de medidas y &lt;a href=&quot;https://duckduckgo.com/goodies.html&quot;&gt;más&lt;/a&gt;.
+&lt;li&gt;&lt;em&gt;Resolución de cálculos, conversión de medidas y&lt;/em&gt; &lt;a href=&quot;https://duckduckgo.com/goodies.html&quot;&gt;más&lt;/a&gt;.
 &lt;img src=&quot;http://arguser.com.ar/images/ddgcalc.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;
 &lt;img src=&quot;http://arguser.com.ar/images/ddgconve.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://duckduckgo.com/bang.html&quot;&gt;Sintaxis de búsqueda directa&lt;/a&gt; que te permite realizar búsquedas
@@ -150,7 +178,7 @@ Español&quot;&gt;wes&lt;/acronym&gt; bach
 &lt;img src=&quot;http://arguser.com.ar/images/ddgbanged.png&quot; alt=&quot;DuckDuckGo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt; Para aprovechar al máximo estas funciones hice de &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym
-title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; mi buscador por defecto
+title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt; fmi buscador por defecto
 indicandole al &lt;a href=&quot;http://getfirefox.com&quot;&gt;explorador web&lt;/a&gt; que envie el contenido de la barra
 de direcciones a &lt;a href=&quot;https://duckduckgo.com&quot;&gt;&lt;acronym title=&quot;Duck Duck Go&quot;&gt;DDG&lt;/acronym&gt;&lt;/a&gt;,
 evitando de esta manera tener que acceder al buscador para luego hacer
@@ -294,14 +322,14 @@ Y ellos la siguen.&lt;/p&gt;
     <link href="http://arguser.com.ar"/>
     <updated>2012-02-09T00:00:00-03:00</updated>
     <id>http://arguser.com.ar/2012/02/09/Kindle</id>
-    <content type="html">&lt;p&gt;Si sos de esas personas que montan de forma manual sus unidades USB y tenes un Kindle (o cualquier eBook-Reader) puede que la siguiente linea te sirva:&lt;/p&gt;
+    <content type="html">&lt;p&gt;Si sos de esas personas que montan de forma manual sus unidades USB y tenes un &lt;em&gt;Kindle&lt;/em&gt; (o cualquier eBook-Reader) puede que la siguiente linea te sirva:&lt;/p&gt;
 
 &lt;div&gt;
   &lt;pre&gt;&lt;code class='bash'&gt;mount -t vfat /dev/UNIDAD /media/CARPETA -o uid=USUARIO,gid=GRUPO,rw,utf8&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
 
-&lt;p&gt;Donde definimos el sistema de archivos, en el caso del Kindle: vfat, y las opciones que indican el usuario, grupo, modo (lectura-escritura) y la codificación de caracteres.
+&lt;p&gt;Donde definimos el sistema de archivos, en el caso del &lt;em&gt;Kindle&lt;/em&gt;: vfat, y las opciones que indican el usuario, grupo, modo (lectura-escritura) y la codificación de caracteres.
 Esta ultima es muy importante si utilizamos Calibre para administrar nuestros libros electrónicos, ya que en orden de comprender y mostrar los libros que se encuentran en nuestro dispositivo Calibre utiliza UTF-8 para decodificar los caracteres.&lt;/p&gt;
 </content>
   </entry>
