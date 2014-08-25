@@ -8,7 +8,7 @@ layout: nil
   <link href="http://arguser.github.io/atom.xml" rel="self"/>
   <link href="http://arguser.github.io/"/>
   <updated>{{site.time | date_to_xmlschema }}</updated>
-  <id>http://arguser.com.ar/</id>
+  <id>http://arguser.github.io/</id>
   <author>
     <name>José Pablo Leandro Martín</name>
   </author>
